@@ -1,0 +1,731 @@
+RAZÓN SOCIAL,CÓDIGO ESTACIÓN,RÉGIMEN,COM AUTON,PROVINCIA,MUNICIPIO,DIRECCIÓN POSTAL,C. P.,L.T.,LIGEROS,PESADOS,UNIVERSALES,ESPECIALES,SUSPENSIÓN INICIO,EXENTA ACREDITACIÓN,TIPO DE INSPECCIONES
+VEIASA,411,Empresa Pública,Andalucía,Almería,HUERCAL DE ALMERIA,"Paraje de la Cepa, s/n",4230,6,4,0,0,2,,,
+VEIASA,412,Empresa Pública,Andalucía,Almería,HUERCAL DE ALMERIA,"Ctra N 340 KM 121 Paraje de Zaramula, s/n.",4230,3,1,0,2,0,,,
+VEIASA,413,Empresa Pública,Andalucía,Almería,VICAR,Ctra. Nacional N-340 (Pol. Ind. Venta El Cosario S/N),4738,4,2,0,2,0,,,
+VEIASA,414,Empresa Pública,Andalucía,Almería,NIJAR,"Pg. La Granatilla, Campohermoso. C/ Tornero, 42",4230,2,1,0,1,0,,,
+VEIASA,421,Empresa Pública,Andalucía,Almería,VERA,"Autovía del Mediterráneo - Acceso Sur a Vera - Salida 529,  Ctra. Nacional 340, km 527",4620,2,1,0,1,0,,,
+VEIASA,431,Empresa Pública,Andalucía,Almería,ALBOX,Pol. Ind. de Albox -Área de Servicio. Al Transporte,4800,2,1,0,1,0,,,
+VEIASA,432,Empresa Pública,Andalucía,Almería,VÉLEZ-RUBIO,"Pol. Ind. Vélez Rubio, c/. de la Industria, parcelas 55B y 56B ",4820,2,1,0,1,0,,,
+VEIASA,441,Empresa Pública,Andalucía,Almería,BALANEGRA,"Autovía del Mediterráneo, Cruce Balanegra Ctra. N-340 Km 398",4760,4,2,0,2,0,,,
+VEIASA,442,Empresa Pública,Andalucía,Almería,TRES VILLAS,"Paraje Cortijo del Gobernador, Doña María (A-92, salida 345)",4530,1,0,0,1,0,,,
+VEIASA,1111,Empresa Pública,Andalucía,Cádiz,SAN FERNANDO ,"c/. Santo Entierro, 28.",11100,4,1,0,1,2,,,
+VEIASA,1112,Empresa Pública,Andalucía,Cádiz,PUERTO REAL,"Pol. Ind. Tres Caminos, 2.ª fase, parcela 10-15",11510,6,4,0,2,0,,,
+VEIASA,1113,Empresa Pública,Andalucía,Cádiz,CÁDIZ,"Alcalá de los Gazules, 23 (Parque Empresarial Levante)",11011,3,2,0,1,0,,,
+VEIASA,1121,Empresa Pública,Andalucía,Cádiz,ALGECIRAS,"Pol. Ind. Cortijo Real, c/. Deseos, 2",11206,8,4,0,2,2,,,
+VEIASA,1131,Empresa Pública,Andalucía,Cádiz,JEREZ DE LA FRONTERA,"P.I. El Portal, Avda. Alcalde Manuel Cantos Ropero",11408,8,4,0,2,2,,,
+VEIASA,1131MM,Empresa Pública,Andalucía,Cádiz,JEREZ DE LA FRONTERA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,1132,Empresa Pública,Andalucía,Cádiz,CHIPIONA,"Ctra. Chipiona-Sanlúcar PK 11 Ctra. intercomarcal A-480, -Pinar Martín",11550,5,4,0,1,0,,,
+VEIASA,1141,Empresa Pública,Andalucía,Cádiz,VILLAMARTIN,"Pol. Ind. El Chaparral, s/n. Ctra. N-342",11650,4,1,0,2,1,,,
+VEIASA,1411,Empresa Pública,Andalucía,Córdoba,CÓRDOBA,"Ingeniero Torres Quevedo, s/n. (Pol. Ind. La Torrecilla)",14013,4,0,0,2,2,,,
+VEIASA,1412,Empresa Pública,Andalucía,Córdoba,CÓRDOBA,"C/ Impresor Acisclo Cortés Ribera, Parcela A P. I. Las Quemadas",14013,8,4,0,2,2,,,
+VEIASA,1412MM,Empresa Pública,Andalucía,Córdoba,CÓRDOBA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,1413,Empresa Pública,Andalucía,Córdoba,MONTORO,"Pol. Ind. Camino de Morente, parcelas 104 y 105",14600,2,1,0,1,0,,,
+VEIASA,1414,Empresa Pública,Andalucía,Córdoba,PALMA DEL RÍO,"Polígono Industrial Garrotal Oeste, Parcelas L-36 y L-38 ",14700,2,1,0,1,0,,,
+VEIASA,1421,Empresa Pública,Andalucía,Córdoba,LUCENA,"Ctra. N-331, km 69,5 (Junto al Pol. Ind.)",14900,5,2,0,2,1,,,
+VEIASA,1421MM,Empresa Pública,Andalucía,Córdoba,LUCENA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,1422,Empresa Pública,Andalucía,Córdoba,PUENTE GENIL,"PI Los Arcos, C/José Villafranca Melgar",14500,2,1,0,1,0,,,
+VEIASA,1431,Empresa Pública,Andalucía,Córdoba,POZOBLANCO,"Pol. Ind. Dehesa Boyal, parcela 57. Muñoz Sepúlveda nº34",14400,2,1,0,1,0,,,
+VEIASA,1432,Empresa Pública,Andalucía,Córdoba,PEÑARROYA-PUEBLONUEVO,Carretera al Silo s/n. Ctra.Prov. 238 S/N,14200,2,1,0,1,0,,,
+VEIASA,1441,Empresa Pública,Andalucía,Córdoba,BAENA,Pol. Ind. Los Llanos S/N Area de Tte. y Servicio,14850,4,2,0,2,0,,,
+VEIASA,1442,Empresa Pública,Andalucía,Córdoba,PRIEGO DE CÓRDOBA,"Paraje Arroyo Fuente Nueva, PG. 35. Parcela 1",14800,2,1,0,1,0,,,
+VEIASA,1811,Empresa Pública,Andalucía,Granada,GRANADA,"Avda. de Andalucía, s/n.",18015,3,0,0,1,2,,,
+VEIASA,1811MM,Empresa Pública,Andalucía,Granada,GRANADA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,1812,Empresa Pública,Andalucía,Granada,PELIGROS,"Pol. Ind. Juncaril, S/N",18210,7,4,0,2,1,,,
+VEIASA,1813,Empresa Pública,Andalucía,Granada,LAS GABIAS ,"Ctra A-338 tramo Las Gabias La Malaha Paraje Ctra. del Galgo, Las Gabias",18110,6,4,0,2,0,,,
+VEIASA,1821,Empresa Pública,Andalucía,Granada,MOTRIL,"Ctra. Almería, Km. 1,3",18600,5,3,0,2,0,,,
+VEIASA,1822,Empresa Pública,Andalucía,Granada,ORGIVA,Parcela 14. Polígono 5. Anejo Los Tablones (junto al helipuerto),18418,1,0,0,1,0,,,
+VEIASA,1831,Empresa Pública,Andalucía,Granada,BAZA,"Polígono Industrial La Noria, Carretera de Murcia, s/n.",18800,2,1,0,1,0,,,
+VEIASA,1831MM,Empresa Pública,Andalucía,Granada,BAZA,,,,,,,,,,
+VEIASA,1832,Empresa Pública,Andalucía,Granada,HUESCAR,"Pol. Ind. La Encantada, parcela 317-318",18830,2,1,0,1,0,,,
+VEIASA,1833,Empresa Pública,Andalucía,Granada,GUADIX,Centro de Transporte de Mercancías (junto a la A-92),18500,2,1,0,1,0,,,
+VEIASA,1841,Empresa Pública,Andalucía,Granada,LOJA,"Pol. Ind. El Manzanil II, s/n.",18300,3,1,0,2,0,,,
+VEIASA,1841MM,Empresa Pública,Andalucía,Granada,LOJA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,2111,Empresa Pública,Andalucía,Huelva,HUELVA,"Avda. Francisco Montenegro, 11",21001,5,1,0,2,2,,,
+VEIASA,2112,Empresa Pública,Andalucía,Huelva,SAN JUAN DEL PUERTO,"Pol. Ind. La Duquesa, parcela 1",21610,4,2,0,2,0,,,
+VEIASA,2113,Empresa Pública,Andalucía,Huelva,LEPE,"C/ Los Jardales, nº 15. Polígono Industrial La Gravera",21440,3,2,0,1,0,,,
+VEIASA,2121,Empresa Pública,Andalucía,Huelva,ZALAMEA LA REAL,Pol. Ind. El Tejarero CN 435,21640,2,1,0,1,0,,,
+VEIASA,2122,Empresa Pública,Andalucía,Huelva,GALAZORA,"Pareja de la Dehesa, cruce Ctra. N433 con HU-8117 (Valdelarco)",21291,2,1,0,1,0,,,
+VEIASA,2131,Empresa Pública,Andalucía,Huelva,LA PALMA DEL CONDADO,Centro de Servicios y Equipamiento Comarcal,21700,3,1,0,2,0,,,
+VEIASA,2331MM,Empresa Pública,Andalucía,Huelva,LA PALMA DEL CONDADO,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,2141,Empresa Pública,Andalucía,Huelva,MINAS DE THARSIS,"Pol. Ind. Santa Bárbara, s/n.",21530,1,0,0,1,0,,,
+VEIASA,2311,Empresa Pública,Andalucía,Jaén,JAÉN,"Pol. Ind. Los Olivares, c/. Espeluy, 17",23009,5,2,0,2,1,,,
+VEIASA,2311MM,Empresa Pública,Andalucía,Jaén,JAÉN,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,2312,Empresa Pública,Andalucía,Jaén,ALCALÁ LA REAL ,"Carretera A-339 P.Km 48,600",23680,2,1,0,1,0,,,
+VEIASA,2313,Empresa Pública,Andalucía,Jaén,MARTOS,"PI Cañada de la Fuente, parc 135-136",23600,4,2,0,2,0,,,
+VEIASA,2321,Empresa Pública,Andalucía,Jaén,GUARROMÁN,"Pol. Ind. Guadiel, parcela 103-104",23210,4,2,0,2,0,,,
+VEIASA,2322,Empresa Pública,Andalucía,Jaén,ANDÚJAR,"POL. IND. AVE MARÍA, CTRA. A DEL SUR P. KM 317",23740,3,1,0,2,0,,,
+VEIASA,2331,Empresa Pública,Andalucía,Jaén,BEAS DEL SEGURA,"Pol. Ind. Cornicabral, S/N CALLE D",23280,3,1,0,2,0,,,
+VEIASA,2341,Empresa Pública,Andalucía,Jaén,ÚBEDA,"Ctra. Úbeda-Baeza A 316, P. km 0,4",23400,4,2,0,2,0,,,
+VEIASA,2341MM,Empresa Pública,Andalucía,Jaén,ÚBEDA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,2342,Empresa Pública,Andalucía,Jaén,QUESADA,"CTRA. INTERCOMARCAL A-315, P.K. 30,7 (PJE. CARASOL DE LA VEGA)",23480,2,1,0,1,0,,,
+VEIASA,2911,Empresa Pública,Andalucía,Málaga,MÁLAGA,"Pol. Ind. de Guadalhorce, c/. Diderot, 1",29004,10,5,0,3,2,,,
+VEIASA,2911MM,Empresa Pública,Andalucía,Málaga,MÁLAGA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,2912,Empresa Pública,Andalucía,Málaga,MÁLAGA,"c/. Escritor Fuentes y Cerdá, 2",29018,4,2,0,1,1,,,
+VEIASA,2914,Empresa Pública,Andalucía,Málaga,MÁLAGA,P.I. El Viso C/Brasilia 22 y 30,29006,9,4,0,2,3,,,
+VEIASA,2921,Empresa Pública,Andalucía,Málaga,ESTEPONA,"Pol. Ind. de Estepona, c/. Graham Bell, 15",29680,5,2,0,2,1,,,
+VEIASA,2922,Empresa Pública,Andalucía,Málaga,MARBELLA,PI San Pedro de ALCANTARA. parc 25,29670,7,3,0,2,2,,,
+VEIASA,2923,Empresa Pública,Andalucía,Málaga,MIJAS,"C/ Macharaviaya, 1, Las Lagunas",29651,5,2,0,2,1,,,
+VEIASA,2931,Empresa Pública,Andalucía,Málaga,RONDA,"Pol.Ind. El Fuerte, c/. Guadalquivir, 2",29400,3,2,0,1,0,,,
+VEIASA,2941,Empresa Pública,Andalucía,Málaga,ANTEQUERA,"Autovía a Málaga (N-331), Salida de Antequera (N-342). Aptdo. de correos 199.",29200,4,2,0,2,0,,,
+VEIASA,2941MM,Empresa Pública,Andalucía,Málaga,ANTEQUERA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,2951,Empresa Pública,Andalucía,Málaga,ALGARROBO,"Ctra. Comarcal MA-103, km 1,9.",29750,5,2,0,2,1,,,
+VEIASA,4111,Empresa Pública,Andalucía,Sevilla,LA RINCONADA,"Ctra. Sevilla-Cazalla, km 9",41309,5,2,0,2,1,,,
+VEIASA,4112,Empresa Pública,Andalucía,Sevilla,GELVES,"Autovía Coria del Río, km 4,5",41120,9,4,0,3,2,,,
+VEIASA,4113,Empresa Pública,Andalucía,Sevilla,ALCALÁ DE GUADAÍRA,"Ctra. Alcalá - Dos Hermanas, km 4,5",41500,4,2,0,2,0,,,
+VEIASA,4114,Empresa Pública,Andalucía,Sevilla,SEVILLA,"PI El Pino, C /Pino Central, 16-18",41016,8,4,0,2,2,,,
+VEIASA,4114MM,Empresa Pública,Andalucía,Sevilla,SEVILLA,ITV Móvil Ciclomotores y Motocicletas de Sevilla,,1,,,,,,,
+VEIASA,4115,Empresa Pública,Andalucía,Sevilla,SANLUCAR LA MAYOR,"Poligono Industrial y de Servicios Solucar. C/ graham Bell, 2 ",41800,5,2,0,2,1,,,
+VEIASA,4121,Empresa Pública,Andalucía,Sevilla,OSUNA ,"Avda. de la Constitución, s/n. - Área de Servicio Autovía A-92",41640,4,2,0,2,0,,,
+VEIASA,4122,Empresa Pública,Andalucía,Sevilla,ECIJA,"Autovía A4, km 445 A.C. 259",41400,3,1,0,2,0,,,
+VEIASA,4131,Empresa Pública,Andalucía,Sevilla,UTRERA,Pol. Ind. El Torno S/N,41710,5,4,0,1,0,,,
+VEIASA,4132,Empresa Pública,Andalucía,Sevilla,LEBRIJA,C/ Carpinteros s/n (Terrenos Antigua fábrica Hefrán) Frente a Estación de Ferrocaril,41740,2,1,0,1,0,,,
+VEIASA,4133,Empresa Pública,Andalucía,Sevilla,MORON DE LA FRONTERA,"Polígono Industrial Juan Macho, C/ Serigrafía",41530,3,1,0,1,1,,,
+VEIASA,4133MM,Empresa Pública,Andalucía,Sevilla,MORON DE LA FRONTERA,ITV Móvil Mixta (Ciclomotores y Agrícola),,1,,,,,,,
+VEIASA,4141,Empresa Pública,Andalucía,Sevilla,CARMONA,Pol. Ind. El Pilero S/N Apartado de correos 248,41410,4,2,0,2,0,,,
+VEIASA,4141MM,Empresa Pública,Andalucía,Sevilla,CARMONA,,,,,,,,,,
+VEIASA,4151,Empresa Pública,Andalucía,Sevilla,CAZALLA DE LA SIERRA,"Pol. Ind. El Lagar, S/N Apartado de correos 25",41370,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",2201,CONCESIÓN,Aragón,Huesca,HUESCA,"Avenida MARTINEZ DE VELASCO, CARRETERA N-330, km 68,3",22080,3,2,1,0,0,,No,Nº 10/EI/ITV011
+"ITV BARBASTRO, S.A.U.",2202,CONCESIÓN,Aragón,Huesca,MONZON,"P.I. LAS PAULES, C/ Eugenio de Usandizaga nº 9",22400,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"ITV BARBASTRO, S.A.U.",2203,CONCESIÓN,Aragón,Huesca,BARBASTRO,P.I. VALLE DEL CINCA,22300,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"OCA INSPECCION TECNICA DE VEHICULOS, S.A.",2204,CONCESIÓN,Aragón,Huesca,FRAGA,"P.I. FONDO DE LITERA, C/ Pagesos nº 7",22520,3,2,1,0,0,,No,Nº 28/EI/ITV/044
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",2205,CONCESIÓN,Aragón,Huesca,SABIÑANIGO,CAMINO DE AURIN s/n,22600,1,0,0,1,0,,No,Nº 10/EI/ITV011
+"OCA INSPECCION TECNICA DE VEHICULOS, S.A.",2206,CONCESIÓN,Aragón,Huesca,SARIÑENA,POLIGONO SASO VERDE,22200,1,0,0,1,0,,No,Nº 28/EI/ITV/044
+"ITV BARBASTRO, S.A.U.",2207,CONCESIÓN,Aragón,Huesca,TAMARITE DE LITERA,P.I. ALBELDA,22550,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"ITV BARBASTRO, S.A.U.",2208,CONCESIÓN,Aragón,Huesca,BENASQUE,P.I. LA RODIELLA,22440,1,0,0,1,0,,No,Nº 38/EI/ITV/043
+"ITV BARBASTRO, S.A.U.",2209,CONCESIÓN,Aragón,Huesca,AINSA,"BANASTÓN, CARRETERA N-260, km 423,5",22339,1,0,0,1,0,,No,Nº 38/EI/ITV/043
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",2210,CONCESIÓN,Aragón,Huesca,JACA,"P.I. LLANO DE LA VICTORIA, C/ Rio Lubierre nº 1",22700,2,1,1,0,0,,No,Nº 10/EI/ITV011
+"ITV BARBASTRO, S.A.U.",2211,CONCESIÓN,Aragón,Huesca,GRAUS,P.I. FABARDO,22430,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",2281,CONCESIÓN,Aragón,Huesca,HUESCA,"Avenida MARTINEZ DE VELASCO, CARRETERA N-330, km 68,3",22080,1,0,0,0,1,,No,Nº 10/EI/ITV011
+"OCA INSPECCION TECNICA DE VEHICULOS, S.A.",2282,CONCESIÓN,Aragón,Huesca,FRAGA,"P.I. FONDO DE LITERA, C/ Pagesos nº 7",22520,1,0,0,0,1,,No,Nº 28/EI/ITV/044
+"ITV BARBASTRO, S.A.U.",2283,CONCESIÓN,Aragón,Huesca,BARBASTRO,P.I. VALLE DEL CINCA,22300,1,0,0,0,1,,No,Nº 38/EI/ITV/043
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",2284,CONCESIÓN,Aragón,Huesca,SABIÑANIGO,CAMINO DE AURIN s/n,22600,1,0,0,0,1,,No,Nº 10/EI/ITV011
+"ITV BARBASTRO, S.A.U.",4401,CONCESIÓN,Aragón,Teruel,TERUEL,P.I. LA PAZ C/ Oporto nº 2,44003,3,2,1,0,0,,No,Nº 38/EI/ITV/043
+"ARAGONESA DE SERVICIOS ITV, S.A.",4402,CONCESIÓN,Aragón,Teruel,ALCAÑIZ,P.I. LAS HORCAS,44600,2,1,1,0,0,,No,Nº 39/EI/ITV046
+"ITV BARBASTRO, S.A.U.",4403,CONCESIÓN,Aragón,Teruel,CANTAVIEJA,"P.I. LAS LOMAS, CARRETERA A-226",44140,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"ITV BARBASTRO, S.A.U.",4404,CONCESIÓN,Aragón,Teruel,SARRION,CARRETERA N-234,44460,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"ARAGONESA DE SERVICIOS ITV, S.A.",4405,CONCESIÓN,Aragón,Teruel,CALAMOCHA,"P. AGROALIMENTARIO, CARRETERA A-1508",44200,1,0,0,1,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",4406,CONCESIÓN,Aragón,Teruel,CALACEITE,P.I. LAS LAGUNAS DE MIJAS,44610,1,0,0,1,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",4407,CONCESIÓN,Aragón,Teruel,MONTALBÁN,P.I. CUENCAS MINERAS,44700,1,0,0,1,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",4408,CONCESIÓN,Aragón,Teruel,ANDORRA,"P.I. LA ESTACIÓN, C/ Estación del Norte, nº 8",44500,2,1,1,0,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",4409,CONCESIÓN,Aragón,Teruel,LA PUEBLA DE HIJAR,P.I. VENTA DEL BARRO,44510,2,1,1,0,0,,No,Nº 39/EI/ITV046
+"ITV BARBASTRO, S.A.U.",4410,CONCESIÓN,Aragón,Teruel,ALBARRACÍN,P.I. LOS RUBIALES,44100,2,1,1,0,0,,No,Nº 38/EI/ITV/043
+"ITV BARBASTRO, S.A.U.",4481,CONCESIÓN,Aragón,Teruel,TERUEL,P.I. LA PAZ C/ Oporto nº 2,44003,1,0,0,0,1,,No,Nº 38/EI/ITV/043
+"ARAGONESA DE SERVICIOS ITV, S.A.",4482,CONCESIÓN,Aragón,Zaragoza,ALCAÑIZ,P.I. LAS HORCAS,44600,1,0,0,0,1,,No,Nº 39/EI/ITV046
+"GENERAL DE SERVICIOS ITV, S.A..U.",5001,CONCESIÓN,Aragón,Zaragoza,ZARAGOZA,"P.I. MALPICA, C/D",50016,6,4,2,0,0,,No,Nº 21/EI/ITV025
+"ARAGONESA DE SERVICIOS ITV, S.A.",5002,CONCESIÓN,Aragón,Zaragoza,UTEBO,"AVENIDA DE LOGROÑO,  km 12,6",50180,4,3,1,0,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",5003,CONCESIÓN,Aragón,Zaragoza,CALATAYUD,P.I. CHARLUCA,50300,2,1,1,0,0,,No,Nº 39/EI/ITV046
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",5004,CONCESIÓN,Aragón,Zaragoza,EJEA DE LOS CABALLEROS,"P.I. VALDEFERRIN, C/ 3",50600,2,1,1,0,0,,No,Nº 10/EI/ITV011
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",5005,CONCESIÓN,Aragón,Zaragoza,TARAZONA,"P.I. TARAZONA, C/ Comunidad Foral de Navarra",50500,2,1,0,1,0,,No,Nº 10/EI/ITV011
+"GRUPO ITEVELESA, S.L.U.",5006,CONCESIÓN,Aragón,Zaragoza,CASPE,P.I. EL CASTILLO,50700,2,1,1,0,0,,No,Nº 06/EI/ITV/006
+"ARAGONESA DE SERVICIOS ITV, S.A.",5007,CONCESIÓN,Aragón,Zaragoza,QUINTO,P.I. EL BOLAR,50770,1,0,0,1,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",5008,CONCESIÓN,Aragón,Zaragoza,CARIÑENA,P.I. LA VEGUILLA,50400,1,0,0,1,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",5009,CONCESIÓN,Aragón,Zaragoza,ZARAGOZA,"P. I. EL PILAR, C/ 23 de Abril nº 32",50014,1,1,0,0,0,,No,Nº 39/EI/ITV046
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",5010,CONCESIÓN,Aragón,Zaragoza,LA ALMUNIA DE DOÑA GODINA,"P.I. LA CUESTA, C/ Navarra",50100,2,1,1,0,0,,No,Nº 10/EI/ITV011
+"APPLUS ITEUVE TECHNOLOGY, S.L.U.",5011,CONCESIÓN,Aragón,Zaragoza,GALLUR,"P.I. MONTE BLANCO, c/ Oroel",50650,2,1,1,0,0,,No,Nº 10/EI/ITV11
+"ARAGONESA DE SERVICIOS ITV, S.A.",5012,CONCESIÓN,Aragón,Zaragoza,ZARAGOZA,"PLAZA, Ronda Feria de Muestras nº 6",50197,3,2,1,0,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",5013,CONCESIÓN,Aragón,Zaragoza,DAROCA,"P.I. DAROCA, c/ Jiloca",50360,2,1,1,0,0,,No,Nº 39/EI/ITV046
+"ARAGONESA DE SERVICIOS ITV, S.A.",5014,CONCESIÓN,Aragón,Zaragoza,ZARAGOZA,"CIUDAD DEL TRANSPORTE, C/ M",50820,4,2,2,0,0,,No,Nº 21/EI/ITV025
+"ARAGONESA DE SERVICIOS ITV, S.A.",5082,CONCESIÓN,Aragón,Zaragoza,UTEBO,"AVENIDA DE LOGROÑO,  km 12,6",50180,1,0,0,0,1,,No,Nº 39/EI/ITV046
+"GRUPO ITEVELESA, S.L.U.",5083,CONCESIÓN,Aragón,Zaragoza,CASPE,P.I. EL CASTILLO,50700,1,0,0,0,1,,No,Nº 06/EI/ITV/006
+"ARAGONESA DE SERVICIOS ITV, S.A.",5084,CONCESIÓN,Aragón,Zaragoza,UTEBO,"AVENIDA DE LOGROÑO,  km 12,6",50180,1,0,0,0,1,,No,Nº 39/EI/ITV046
+ITVASA,3301,Empresa Pública,Asturias,Asturias,LLANERA,"PRUVIA, 89",33192,7,5,2,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3302,Empresa Pública,Asturias,Asturias,RIBADESELLA/RIBESEYA,Poligono de Guadamia-Llovio,33569,3,2,1,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3303,Empresa Pública,Asturias,Asturias,MIERES,P.I Fabrica de Mieres parcela 7,33600,4,4,0,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3304,Empresa Pública,Asturias,Asturias,GIJON/XIXON,Camino del Melon 44,33211,9,7,2,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3305,Empresa Pública,Asturias,Asturias,COAÑA/CUAÑA,P.I. RIO PINTO-XARRIO,33719,4,3,1,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3306,Empresa Pública,Asturias,Asturias,EL ENTREGO / L´ENTREGU,"P. LA CENTRAL, S/N",33940,4,4,0,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3307,Empresa Pública,Asturias,Asturias,AVILES,P. Las Arrobias/Les Arobies -Avda. de la Industria 53,33400,5,4,1,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3308,Empresa Pública,Asturias,Asturias,CANGAS DEL NARCEA,Avda. Alejandro Casona S/N El Regeron,33800,3,2,1,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA,3309,Empresa Pública,Asturias,MOVIL AG,LLANERA,"PRUVIA, 89",33192,1,0,0,0,1,,ACREDITADA,93/EI/ITV109
+ITVASA,3310,Empresa Pública,Asturias,MOVIL(L-QUAD),LLANERA,"PRUVIA, 89",33192,1,0,0,0,1,,ACREDITADA,93/EI/ITV109
+ITVASA,3311,Empresa Pública,Asturias,MOVI AG,LLANERA,"PRUVIA, 89",33192,1,0,0,0,1,,ACREDITADA,93/EI/ITV109
+ITVASA,3312,Empresa Pública,Asturias,Asturias,GRANDA - SIERO,"P NATALIO, C/HNOS QUIROS RIO, 2",33429,7,5,2,0,0,,ACREDITADA,93/EI/ITV109
+ITVASA (cerrada temporalmente por mantenimiento),3313,Empresa Pública,Asturias,Asturias,GRANDA - GIJON/XIXON,"Camino del matadero, 180 ",33391,6,6,0,0,0,,ACREDITADA,93/EI/ITV109
+Consell de Mallorca,701,Gestión directa por prestación de servicios,Baleares,Baleares,PALMA DE MALLORCA,c/ Gremi Sucrers i Candelers 2,7009,4,2,0,2,0,,,
+"TÜV Rheinland Certio, SL",702,Concesión,Baleares,Baleares,MAÓ,"c/ Bajoli, 40 - POIMA",7714,2,1,0,1,0,,,
+Consell d'Eivissa,703,Gestion directa,Baleares,Baleares,STA. GERTRUDIS,"Ctra. Sant Miquel Km 2,7",7814,4,1,0,3,0,,,
+Consell de Mallorca,704,Gestión directa por prestación de servicios,Baleares,Baleares,INCA,Ctra. Palma-Alcudia C-730 Km. 30 S/N,7300,3,1,0,2,0,,,
+Consell de Mallorca,705,Gestión directa por prestación de servicios,Baleares,Baleares,MANACOR,"Pol. Ind. Oliveristes, s/n, Pol. Ind. Manacor",7500,3,1,0,2,0,,,
+Consell de Mallorca,706,Gestión directa por prestación de servicios,Baleares,Baleares,PALMA DE MALLORCA,"Carrer de Canal de Sant Jordi, 1 Pol. Son Oms, Can Pastilla",7610,6,4,0,2,0,,,
+"TÜV Rheinland Certio, SL",707,Concesión,Baleares,Baleares,CIUTADELLA,"Ctra. General Me-1, Km 42,5",7760,2,1,0,1,0,,,
+Consell de Formentera,708,Gestión directa,Baleares,Baleares,FORMENTERA,Pol. Can Rufino s/n. Sant Francesc,7860,1,0,0,1,0,,,
+Consell de Mallorca,780,Gestión directa por prestación de servicios,Baleares,Balears (Illes),MÓVIL AGRÍCOLA - MANACOR,"Pol. Ind. Oliveristes, s/n, Pol. Ind. Manacor",7500,1,0,0,0,1,,,
+Consell de Mallorca,709,Gestión directa por prestación de servicios,Baleares,Balears (Illes),CALVIA,"Plaça Pascual Miquel, 4, Pol. Ind. Son Bugadelles. Santa Ponsa",7181,4,0,0,4,0,,,
+Consell d'Eivissa,703,Gestión directa por prestación de servicios,Baleares,Balears (Illes),MÓVIL - EIVISSA,"Avda. de Sant Antoni de Portmany, 2",7800,2,2,0,0,0,,,
+"TÜV Rheinland Certio, SL",770,Concesión,Baleares,Baleares,MóVIL CICLOMOTORES MAÓ,"c/ Bajoli, 40 - POIMA",7714,1,0,0,0,1,,,
+Consell de Mallorca,782,Gestión directa por prestación de servicios,Baleares,Baleares,MÓVIL CICLOMOTORES PALMA,"Carrer de Canal de Sant Jordi, 1 Pol. Son Oms, Can Pastilla",7610,1,0,0,0,1,,,
+"GENERAL DE SERVICIOS  ITV, S.A",3501,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,LAS PALMAS DE GC,"C/ ARRECIFE, 24 (P.I. LOMO BLANCO)",35010,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3502,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,ARRECIFE,"CTRA. A S. BARTOLOMÉ, KM 1,5",35500,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3503,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,LAS PALMAS DE GC,"C/ ARGUINEGUÍN, 20 (P.I. LOMO BLANCO)",35010,4,3,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3504,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,STA.Mª DE G.,"CTRA NAL DEL NORT, KM 24",35450,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3505,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,AGÜIMES,"C ALGARROBO,S/N (P.I. ARINAGA)",35260,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3506,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,ANTIGUA,"CTRA GC-610, KM 21",35630,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3507,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Las Palmas,TELDE,"ANGEL GUIMERÁ, S/N",35220,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITV SANTA CRUZ DE LA PALMA, SL",3508,AUTORIZACIÓN,Canarias,Las Palmas,SAN BARTOLOMÉ,"C/ CANTO EL JABLE, 7 (PLAYA HONDA)",35509,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITV PUERTO DE LAS PALMAS, S.L.",3509,AUTORIZACIÓN,Canarias,Las Palmas,LAS PALMAS DE GC,AVDA. DE LAS PETROLÍFERAS S/N,35008,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+INSPECCION TECNICA DE VEHICULOS PARA LA SEGURIDAD SAU,3511,AUTORIZACIÓN,Canarias,Las Palmas,SAN BARTOLOME DE TIJANA ,P.I. EL TABLERO C/ CARTAGO 24,35109,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+ITEUVE CANARIAS AEROPUERTO EL MATORRAL SL,3512,AUTORIZACIÓN,Canarias,Las Palmas,ANTIGUA,P.I. EL MATORRAL C/ EL FRAGOSO S/N,35630,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"INPECCION TECNICA DE VEHICULOS PARA LA SEGURIDAD, SAU",3513,AUTORIZACIÓN,Canarias,Las Palmas,AGÜIMES,P.I. EL ARINAGA C/ CANAL DERECHA S/N,35118,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"INPECCION TECNICA DE VEHICULOS PARA LA SEGURIDAD, SAU",3514,AUTORIZACIÓN,Canarias,Las Palmas,FUERTEVENTURA-PTO DEL ROSARIO,P.I. LA HONDURA C/ EL BOTE ESQ EL REMO S/N,35600,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNOLOGY, SLU",3515,AUTORIZACIÓN,Canarias,Las Palmas,LAS PALMAS DE GC,"P.I. MILLER BAJO, C/ LUIS SAAVEDRA MIRANDA, 59",35014,3,2,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITV SANTA CRUZ DE LA PALMA, SL",3516,AUTORIZACIÓN,Canarias,Las Palmas,AGÜIMES,"P.I ARINAGA FASE II, C/ CIPRES, 302",35118,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITV SANTA CRUZ DE LA PALMA, SL",3517,AUTORIZACIÓN,Canarias,Las Palmas,LAS PALMAS DE GC,"P.I. MILLER BAJO, C/ E. FUENTES CABRERA,4",35014,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNOLOGY, SLU",3518,AUTORIZACIÓN,Canarias,Las Palmas,LAS PALMAS DE GC,"P.I. DIAZ CASANOVA, C/ MANAGUA",35010,2,1,1,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+Gobierno de Canarias (3599),3599,,Canarias,Las Palmas,Isla de La Graciosa (Teguise),Caleta del Sebo,35540,1,,,1,,,SI,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3801,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,ARAFO,"P.I. VALLE DE GUIMAR, Manz. VI, Par. 15",38509,3,1,1,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3802,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,EL PASO,"C/ VENEZUELA, 15",38750,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3803,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,EL ROSARIO,"C/ GESTUR, 4 (P.I. EL CHORRILLO)",38108,4,2,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3804,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,LOS REALEJOS,"C/ SAN BENITO, 19",38410,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3805,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,S. MIGUEL A.,"C/ TEN BEL, 50 (P.I. LAS CHAFIRAS)",38639,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3806,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,VALVERDE,"C/ LA IGLESIA, S/N",38900,1,0,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"GENERAL DE SERVICIOS  ITV, S.A",3807,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,S SEBASTIAN,TRANSV GARCIA CABRERA,38800,1,0,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3808,CONCESION – AUTORIZACION PROVISIONAL,Canarias,Tenerife,ADEJE,"C/ BENTINERFE, 42 (P.I. BCO. LAS TORRES)",38670,3,1,0,2,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITV SANTA CRUZ DE LA PALMA, SL",3809,AUTORIZACIÓN,Canarias,Tenerife,SANTA CRUZ DE LA PALMA,"P. I.. MIRCA, S/N",38700,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"IVESUR EL VALLE, SL",3810,AUTORIZACIÓN,Canarias,Tenerife,LA OROTAVA,"P.I. SAN JERÓNIMO, C/ LA CARPINTERÍA",38300,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+ITEUVE CANARIAS SL,3811,AUTORIZACIÓN,Canarias,Tenerife,SANTA CRUZ DE TENERIFE,"P.I. EL MAYORAZGO, C/ L. GROTTE, 4",38110,3,2,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+INSPECCION TECNICA DE VEHICULOS PARA LA SEGURIDAD SAU,3812,AUTORIZACIÓN,Canarias,Tenerife,SANTA CRUZ DE TENERIFE,P.I. LA SANGRADERA C/ GUIMARES S/N,38340,3,2,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+INSPECCION TECNICA DE VEHICULOS PARA LA SEGURIDAD SAU,3813,AUTORIZACIÓN,Canarias,Tenerife,ARAFO,"P.I. EL CARRETON, PARCELAS 6,7",38550,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ATIMASE TENERIFE, SL",3814,AUTORIZACIÓN,Canarias,Tenerife,SANTA CRUZ DE TENERIFE,"P.I. EL MAYORAZGO,C/SUBIDA EL MAYORAZGO,20",38110,3,2,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITEUVE CANARIAS, SL",3815,AUTORIZACIÓN,Canarias,Tenerife,SAN CRISTÓBAL DE LA LAGUNA,"P.I OFRA-TACO, C/ ZEROLO, 14",38320,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"ITEUVE CANARIAS, SA",3816,AUTORIZACIÓN,Canarias,Tenerife,LA LAGUNA,"CAMINO SAN LÁZARO, 166 (LOS RODEOS)",38297,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3817,AUTORIZACIÓN,Canarias,Tenerife,S. MIGUEL ABONA,C/ FUNDADORES COOPERATIVA,38639,3,2,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+INSPECCION TECNICA DE VEHICULOS PARA LA SEGURIDAD SAU,3818,AUTORIZACIÓN,Canarias,Tenerife,LA LAGUNA,"P.I. TACO, CALLE LAS INDUSTRIAS, 23",38108,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+"APPLUS ITEUVE TECHNÓLOGY, S.L.",3819,AUTORIZACIÓN,Canarias,Tenerife,LOS REALEJOS,"P.I. LA ZAMORA, CTRA. LA ZAMORA, 34",38410,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+IVESUR NORTE SL,3820,AUTORIZACIÓN,Canarias,Tenerife,ICOD DE LOS VINOS,"C / NEVADILLA, 15 (BUEN PASO)",38834,2,1,0,1,0,,ACREDITADA,"Art. 5 RD 920/2017, ex apar. 10"
+OFICIAL,3901,Gestión Pública,Cantabria,Cantabria,CAMARGO,"P.I. DE RAOS, P 10",39600,2,1,0,1,0,,,
+"GRUPO ITEVELESA, SL",3902,Concesión,Cantabria,Cantabria,CAMARGO,"P.I. DE RAOS, C/GALERA 45",39600,3,2,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3903,Concesión,Cantabria,Cantabria,CORRALES,P.I. DE BARROS P-19,39400,2,1,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3904,Concesión,Cantabria,Cantabria,VAL DE S VICENTE,PI LOS TÁNAGOS P-7,39548,2,1,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3905,Concesión,Cantabria,Cantabria,OJEDO-CILLORIGO,"C/ LA PEDREÑA, 19",39584,1,1,0,0,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3906,Concesión,Cantabria,Cantabria,REINOSA,"PI LA VEGA,C/MECANIZADO PARC 16",39200,2,1,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3907,Concesión,Cantabria,Cantabria,POLANCO,"PI DE REQUEJADA, PARC 3,1",39313,3,2,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3908,Concesión,Cantabria,Cantabria,LAREDO,C/WENCESLAO LOPEZ ALBO Nº 12,39770,2,1,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3909,Concesión,Cantabria,Cantabria,CASTRO URDIALES-ONTON,"CTRA. NAC. 634 P.K.138,9",39708,2,1,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",3912',Concesión,Cantabria,Cantabria,CABEZON DE LA SAL,Bº/ Cabrojo s/n (CABEZO DE LA SAL),39591,1,0,0,1,0,,NO,Nº 06/EI/ITV/006
+"GRUPO ITEVELESA, SL",39A2',Concesión,Cantabria,Cantabria,POLANCO,"PI DE REQUEJADA, PARC 3,1",39313,1,0,0,0,1,,NO,Nº 06/EI/ITV/006
+"GENERAL DE SERVICIOS, ITV, S.A.",0201,AUTORIZACIÓN,CAST LM,Albacete,ALBACETE,"Ctra. Mahora, km. 3,700 Aptdo 898",2080,3,1,0,1,1,,,
+TÜV SÜD ATISAE,0202,AUTORIZACIÓN,CAST LM,Albacete,ALBACETE,"Polig.Ind.Campollano, P-30",2006,3,1,0,1,1,,,
+"TÜV RHEINLAND IBERICA, S.A.",0203,AUTORIZACIÓN,CAST LM,Albacete,ALMANSA,"Polg.Ind. El Mugon Aparadoras,7",2640,2,1,0,1,0,,,
+"TÜV RHEINLAND IBERICA, S.A.",0204,AUTORIZACIÓN,CAST LM,Albacete,HELLÍN,Polg.Ind.Parcela-45,2400,2,1,0,1,0,,,
+"CERQUO ITV CENTRO, S.L. ",0205,AUTORIZACIÓN,CAST LM,Albacete,VILLARROBLEDO,"P.I. Villarrobledo, apdo 214 calle de la Cierva, 10",2600,2,1,0,1,0,,,
+"ITV LA RODA,S.L.",0206,AUTORIZACIÓN,CAST LM,Albacete,LA RODA,"Carretera de Sisante, Nº 29, Aptdo 250",2630,2,1,0,1,0,,,
+NUEVAS TECNOLOGIAS DE ALBACETE S.A.,0207,AUTORIZACIÓN,CAST LM,Albacete,ALBACETE,"Polígono Industrial Campollano, C/Autovía, parcelas 1-22 y 23",2007,3,1,0,2,0,,,
+"ITV MACO, S.L.",0208,AUTORIZACIÓN,CAST LM,Albacete,ALBACETE,"Avda. Emilia Pardo Bazan, 45",2005,2,1,0,1,0,,,
+FRANCISCO Y VICENTE CANO RODRIGUEZ S.L.,0209,AUTORIZACIÓN,CAST LM,Albacete,ROBLEDO,"CRA. CORDOBA VALENCIA KM 289,300",2340,2,1,0,1,0,,,
+"CERQUO ITV CENTRO, S.L. ",0210,AUTORIZACIÓN,CAST LM,Albacete,ALBOREA,"Pol. Ind. 10, parcelas 1264 y 1267",2215,2,1,0,1,0,,,
+"CERQUO ITV CLM, S.L. ",1301,AUTORIZACIÓN,CAST LM,Ciudad Real,CIUDAD REAL,Avda. de las Ciencias s/n - P.I. Avanzado,13005,3,1,0,1,1,,,
+TÚV SÚD ATISAE,1302,AUTORIZACIÓN,CAST LM,Ciudad Real,ALCÁZAR DE SAN JUAN,"Avda de los Institutos, s/n",13600,3,1,0,1,1,,,
+"TÜV RHEINLAND IBERICA, S.A.",1303,AUTORIZACIÓN,CAST LM,Ciudad Real,MANZANARES,"P.I. Manzanares, P-R111",13200,2,1,0,1,0,,,
+TÚV SÚD ATISAE,1304,AUTORIZACIÓN,CAST LM,Ciudad Real,PUERTOLLANO,"P.I. Puertollano, P-601",13500,2,1,0,1,0,,,
+ITV VALDEPEÑAS S.L.,1305,AUTORIZACIÓN,CAST LM,Ciudad Real,VALDEPEÑAS,"Polígono Industrial C/ Fudre, 6",13300,3,1,0,1,1,,,
+"MARTIN CONSUEGRA ITV, S.L.",1306,AUTORIZACIÓN,CAST LM,Ciudad Real,DAIMIEL,"Polígono Industrial C/ Herreros, parc.174",13250,2,1,0,1,0,,,
+"HNOS.ORTIZ JAREÑO,S.L.",1307,AUTORIZACIÓN,CAST LM,Ciudad Real,TOMELLOSO,"Ctra Socuellamos, km 0,5",13700,3,1,0,1,1,,,
+"I.T.A CASTILLA, S.L.",1308,AUTORIZACIÓN,CAST LM,Ciudad Real,MIGUELTURRA,"Pol. Ind. Sector SU-2, Finca IND-P",13170,2,1,0,1,0,,,
+LA SAGRA SUR S.L.,1309,AUTORIZACIÓN,CAST LM,Ciudad Real,ALMADÉN,"P.I. Pozo de las Nievas, parcelas 1.8, 1.9, 1.10 y 1.11",13400,3,1,0,1,1,,,
+"CERQUO ITV INFANTES, S.L. ",1310,AUTORIZACIÓN,CAST LM,Ciudad Real,VILLANUEVA DE LOS INFANTES,"C/ POZO DE SAN PEDRO, 2",13320,1,0,0,1,0,,,
+ITV VALDEPEÑAS S.L.,1311,AUTORIZACIÓN,CAST LM,Ciudad Real,ALMURADIEL,"Autovía A4, P.K. 233,500",13760,2,1,0,1,0,,,
+SERGIO RODRIGUEZ CABRERA,1312,AUTORIZACIÓN,CAST LM,Ciudad Real,PIEDRABUENA,"CARRETERA N-430 KM. 276,7",13100,1,0,0,1,0,,,
+"CERQUO ITV CLM, S.L. ",1313,AUTORIZACIÓN,CAST LM,Ciudad Real,VILLARTA DE SAN JUAN,"Polígono Industrial San Juan/A4, Parcelas 2.36, 2.37, 2.38 y 2.18",13210,1,0,0,1,0,,,
+"APPLUS ITEUVE CASTILLA, S.A.",1601,AUTORIZACIÓN,CAST LM,Cuenca,CUENCA,"P.I.Los Palancares, Parc. 4",16003,3,1,1,0,1,,,
+"TÜV RHEINLAND IBERICA, S.A.",1602,AUTORIZACIÓN,CAST LM,Cuenca,MOTILLA DEL PALANCAR,"Ctra. N-320, km 71",16200,3,1,0,1,1,,,
+"VALGRI CENTRI, S.L.",1603,AUTORIZACIÓN,CAST LM,Cuenca,MOTILLA DEL PALANCAR,"Ctra Madrid-Valencia, km 198",16200,4,1,0,2,1,,,
+"ALCAD SERVICIOS TARANCON, S.L. (ATISAE)",1604,AUTORIZACIÓN,CAST LM,Cuenca,TARANCÓN,Polígono Tarancon Sur - C/ Aliagares s/n,16400,2,1,0,1,0,,,
+"ITV VEGA BAJA, S.A.",1605,AUTORIZACIÓN,CAST LM,Cuenca,LAS PEDROÑERAS,"P.Ind. El Horado Blanco, C/ Juan de la Cierva, parc 89 y 94",16660,2,1,0,1,0,,,
+"ITV QUINTAREY, SL",1606,AUTORIZACIÓN,CAST LM,Cuenca,QUINTANAR DEL REY,PI EL POLONIO AV NORTE 1-11,16220,2,1,0,1,0,,,
+ITV DE LA SIERRA S.L.,1607,AUTORIZACIÓN,CAST LM,Cuenca,SALVACAÑETE,"Polígono Industrial El Egido I, parcelas 8B y 9",16318,1,0,0,1,0,,,
+INSPECCIÓN TÉCNICA DE VEHÍCULOS CUENCA S.L.U.,1608,AUTORIZACIÓN,CAST LM,Cuenca,HUETE,PARCELA 1048 DEL POLIGONO 559,16500,2,1,0,1,0,,,
+INSPECCIÓN TÉCNICA DE VEHÍCULOS CUENCA S.L.U.,1609,AUTORIZACIÓN,CAST LM,Cuenca,CHILLARON DE CUENCA,"Pol. Ind 3 parcela 18,",16190,2,1,0,1,0,,,
+INSPECCIÓN TÉCNICA DE VEHÍCULOS CUENCA S.L.U.,1610,AUTORIZACIÓN,CAST LM,Cuenca,GRAJA DE INIESTA,POL. 8 PARCELA 22,16251,2,1,0,1,0,,,
+GRUPO ITEVELESA S. L.,1901,AUTORIZACIÓN,CAST LM,Guadalajara,GUADALAJARA,"P.I. El Balconcillo, C/ Trafalgar,s/n",19004,4,2,0,1,1,,,
+"TÜV RHEINLAND IBERICA, S.A.",1902,AUTORIZACIÓN,CAST LM,Guadalajara,ALCOLEA DEL PINAR,"Ctra. Alcolea-Sigüenza, km. 0,40",19260,1,0,0,1,0,,,
+GRUPO ITEVELESA S. L.,1903,AUTORIZACIÓN,CAST LM,Guadalajara,AZUQUECA DE HENARES,"P.I. EL COMENDADOR. C/ Las Ondas, 3",19200,3,2,0,1,0,,,
+"ITVERSIA GESTIÓN, S.L.",1904,AUTORIZACIÓN,CAST LM,Guadalajara,GUADALAJARA,"Polig.Ind. ""El Balconcillo"" C/ Trafalgar, 18",19004,2,1,0,1,0,,,
+GRUPO ITEVELESA S. L.,1905,AUTORIZACIÓN,CAST LM,Guadalajara,MARCHAMALO,"P.Ind. Henares, C/ Vasco Núñez de Balboa, 71",19180,1,0,0,1,0,,,
+ITV LA SAGRA S.L.,1906,AUTORIZACIÓN,CAST LM,Guadalajara,EL CASAR,"Pol. Ind. La Llave - C/ La Nava,parcelas 1-3",19170,2,1,0,1,0,,,
+ITV MONDÉJAR S.L.,1907,AUTORIZACIÓN,CAST LM,Guadalajara,MONDÉJAR,"Camino Driebes, 5",19110,1,0,0,1,0,,,
+ITV LA SAGRA S.L.,1908,AUTORIZACIÓN,CAST LM,Guadalajara,MOLINA DE ARAGÓN,"Pol. Ind. Los Tobares, parcelas 13C y 18C",19300,1,0,0,1,0,,,
+"TÜV RHEINLAND IBERICA, S.A.",4501,AUTORIZACIÓN,CAST LM,Toledo,TOLEDO,"C7/ JARAMA, 112",45007,2,1,0,1,0,,,
+"VICENTE HESSE MONGE, S.A.",4502,AUTORIZACIÓN,CAST LM,Toledo,TALAVERA DE LA REINA,"Ctra. N-V, km.113",45600,3,1,0,1,1,,,
+"I.T.V. OCAÑA, S.A.",4503,AUTORIZACIÓN,CAST LM,Toledo,OCAÑA,"Ctra N-IV, km. 57.400",45300,4,1,0,2,1,,,
+TÚV SÚD ATISAE,4504,AUTORIZACIÓN,CAST LM,Toledo,LOS YÉBENES,"Ctra N-401, km.114,700",45470,2,1,0,1,0,,,
+"ITV LA SAGRA, S.L.",4505,AUTORIZACIÓN,CAST LM,Toledo,YUNCLER,"P.I. Las Atalayas - C/ del Automóvil, 76-78",45529,3,2,0,1,0,,,
+"ITV QUINTANAR, S.L.",4506,AUTORIZACIÓN,CAST LM,Toledo,QUINTANAR DEL LA ORDEN,"P.I. 2º fase, parcelas 2y 3",45800,2,1,0,1,0,,,
+PROMOCIONES Y DESARROLLOS GUTIERREZ S.L.,4507,AUTORIZACIÓN,CAST LM,Toledo,TALAVERA DE LA REINA,"P.I. Torrehierro, parc. 232",45600,3,1,1,0,1,,,
+"CERQUO ITV CLM, S.L. ",4508,AUTORIZACIÓN,CAST LM,Toledo,OLIAS DEL REY,"CALLE SECTOR 12, NÚMEROS 11 Y 12",45280,2,1,0,1,0,,,
+"ITV SESEÑA, S.A.",4509,AUTORIZACIÓN,CAST LM,Toledo,SESEÑA NUEVO,"Camino de Ciempozuelos, s/n",45224,2,1,1,0,0,,,
+"ITV DOSANCHEZ DE MAQUEDA, S.L. ",4510,AUTORIZACIÓN,CAST LM,Toledo,MAQUEDA,CTRA. N-V KM 74,45515,2,1,0,1,0,,,
+"ITV LA SAGRA, S.L.",4511,AUTORIZACIÓN,CAST LM,Toledo,CASARRUBIOS DEL MONTE,"Ctra. Extremadura (A-5) km 47, Area de Servicio Las Esparteras",45950,2,1,0,1,0,,,
+"ITV MACO, S.L.",4512,AUTORIZACIÓN,CAST LM,Toledo,ILLESCAS," Avda. de Los Gremios, 27-29. Polígono Industrial La Veredilla",45200,2,1,0,1,0,,,
+"ITV TORRIJOS,S.L.",4513,AUTORIZACIÓN,CAST LM,Toledo,TORRIJOS,"P.I. Atalaya, C/ Alfareros, parcela 3- Apdo. Correos 155",45500,2,1,0,1,0,,,
+TÜV SÜD ATISAE S.A.U.,4514,AUTORIZACIÓN,CAST LM,Toledo,ILLESCAS,"Polígono Empresarial ""Puerta de Castilla-la Mancha"", autovía Madrid-Toledo  A-42, Km 31-1",45200,2,1,0,1,0,,,
+PROMOCIONES Y DESARROLLOS GUTIERREZ S.L. (ITV LA FLORESTA),4515,AUTORIZACIÓN,CAST LM,Toledo,TALAVERA DE LA REINA,"Avda. de Portugal, nº 97",45600,2,1,0,1,0,,,
+LA SAGRA OESTE S.L.,4516,AUTORIZACIÓN,CAST LM,Toledo,CAZALEGAS,"POLÍGONO INDUSTRIAL SECTOR 6, EN LOS SOLARES Nº 4-6-8 DE LA AVENIDA DE CAZALEGAS Y Nº 2 DE LA CALLE PLUTÓN",45683,2,1,0,1,0,,,
+"ITV BERNA, SL",4517,AUTORIZACIÓN,CAST LM,Toledo,SONSECA,"Ctra CM-410 de Sonseca a Navahermosa, km 26",45100,3,1,0,1,1,,,
+TÜV SÜD ATISAE S.A.U.,4518,AUTORIZACIÓN,CAST LM,Toledo,TOLEDO,"P.I. TOLEDO 2º FASE PARCELA 3 C/ RIO JARAMA, 13",45007,2,1,0,1,0,,,
+LA SAGRA OESTE S.L.,4519,AUTORIZACIÓN,CAST LM,Toledo,CALZADA DE OROPESA,Polígono 2 parcela 108,45580,1,0,0,1,0,,,
+"GENERAL DE SERVICIOS, ITV, S.A.",0291,AUTORIZACIÓN,CAST LM,Albacete,ITV móvil - Albacete (0201),"Ctra. Mahora, km. 3,700 Aptdo 898",-,1,0,0,0,1,,,
+TÜV SÜD ATISAE,0292,AUTORIZACIÓN,CAST LM,Albacete,ITV móvil - Albacete (0202),Polig.Ind.Campollano  P-30,-,1,0,0,0,1,,,
+"CERQUO ITV CLM, S.L. ",1391,AUTORIZACIÓN,CAST LM,Ciudad Real,ITV móvil - Ciudad Real (1301),Avda. De Las Ciencias S/N. Plg.Ind. Avanzado,-,1,0,0,0,1,,,
+TÜV SÜD ATISAE,1392,AUTORIZACIÓN,CAST LM,Ciudad Real,ITV móvil - Alcazar De San Juan  (1302),Avda. De Los Institutos  S/N,-,1,0,0,0,1,,,
+ITV VALDEPEÑAS S.L.,1395,AUTORIZACIÓN,CAST LM,Ciudad Real,ITV móvil - Valdepeñas (1305),"Poligono Industrial C/ Fudre, 6",-,1,0,0,0,1,,,
+"HNOS.ORTIZ JAREÑO,S.L.",1397,AUTORIZACIÓN,CAST LM,Ciudad Real,ITV móvil - Tomelloso (1307),"Ctra. Socuellamos  Km. 0,5",-,1,0,0,0,1,,,
+LA SAGRA SUR S.L.,1399,AUTORIZACIÓN,CAST LM,Ciudad Real,ITV móvil - Almadén (1309),"P.I. Pozo de las Nievas, parcelas 1.8,1.9, 1.10 y 1.11",-,1,0,0,0,1,,,
+"APPLUS ITEUVE CASTILLA, S.A.",1691,AUTORIZACIÓN,CAST LM,Cuenca,ITV móvil - Cuenca (1601),Av/ Juan Carlos I  4 Pol. Ind. Los Palancares,-,1,0,0,0,1,,,
+"TÜV RHEINLAND IBERICA, S.A.",1692,AUTORIZACIÓN,CAST LM,Cuenca,ITV móvil - Motilla Del Palancar (1602),Ctra. N-320  Km 71,-,1,0,0,0,1,,,
+"VALGRI CENTRI, S.L.",1693,AUTORIZACIÓN,CAST LM,Cuenca,ITV móvil - Motilla Del Palancar (1603),Ctra Madrid-Valencia Km 198,-,1,0,0,0,1,,,
+GRUPO ITEVELESA S. L.,1991,AUTORIZACIÓN,CAST LM,Guadalajara,ITV móvil - Guadalajara  (1901),P.I. El Balconcillo  C/ Trafalgar S/N,-,1,0,0,0,1,,,
+"ITV TORRIJOS,S.L.",4583,AUTORIZACIÓN,CAST LM,Toledo,ITV móvil - Torrijos (4513),P.I. Atalaya. C/ Alfareros Parcela 3- Apdo. Correos 155,-,1,0,0,0,1,,,
+"ITV BERNA, SL",4587,AUTORIZACIÓN,CAST LM,Toledo,ITV móvil - Sonseca (4517),"Ctra CM-410 de Sonseca a Navahermosa, km 26",-,1,0,0,0,1,,,
+"VICENTE HESSE MONGE, S.A.",4592,AUTORIZACIÓN,CAST LM,Toledo,ITV móvil - Talavera De La Reina  (4502),Ctra. N-V Km.113,-,1,0,0,0,1,,,
+"I.T.V. OCAÑA, S.A.",4593,AUTORIZACIÓN,CAST LM,Toledo,ITV móvil - Ocaña  (4503),Ctra N-IV  Km. 57.400,-,1,0,0,0,1,,,
+PROMOCIONES Y DESARROLLOS GUTIERREZ S.L.,4597,AUTORIZACIÓN,CAST LM,Toledo,ITV móvil - Talavera De La Reina  (4507),"P.I. Torrehierro, parc. 232",-,1,0,0,0,1,,,
+"GRUPO ITEVELESA, S.L.",501,Concesión,CAST Y L,Avila,AVILA,"CTRA BURGOHONDO, KM 2,4",5002,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",502,Concesión,CAST Y L,Avila,AREVALO,"P.I. TIERRAS DE AREVALO, PARC. J-1",5200,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",503,Concesión,CAST Y L,Avila,ARENAS S P,"Ctra. Cuevas del Aguila, Km. 0,50",5400,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",504,Concesión,CAST Y L,Avila,NAVAS DEL M,"PI EL BRAJERO PARC 2,12",5230,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",901,Concesión,CAST Y L,Burgos,BURGOS,P.I. VILLALONQUEJAR C/. LÓPEZ BRAVO,9197,5,3,0,2,0,,,
+ATISAE-CAL,902,Concesión,CAST Y L,Burgos,MIRANDA DE EBRO,"C/ Barranco de los Cascajos nº 8, Zona de Servicios Arasur, Miranda de Ebro",9200,4,2,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",903,Concesión,CAST Y L,Burgos,ARANDA DE DUERO,"Avda. Costaján, 10",9400,2,1,0,1,0,,,
+ATISAE-CAL,905,Concesión,CAST Y L,Burgos,VILLASANTE DE MONTIJA,"El Crucero de Montija, Ctra. Nacional 629 Km 38,5 ",9569,2,1,0,1,0,,,
+ATISAE-CAL,906,Concesión,CAST Y L,Burgos,BELORADO,Polígono Industrial el Retorto C/ Monterrey nº 9,9250,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",907,Concesión,CAST Y L,Burgos,SALAS DE LOS I.,"Polígono Industrial “San Isidro”, Fase II, C/B, Parcela B-31",9600,1,0,0,1,0,,,
+ATISAE-CAL,908,Concesión,CAST Y L,Burgos,BRIVIESCA,"CTRA BAÑUELOS, K 0,3",9240,2,0,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",2401,Concesión,CAST Y L,León,CEMBRANOS,"CTRA ZAMORA, KM 11",24231,4,2,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",2402,Concesión,CAST Y L,León,PONFERRADA,"CTRA NAL VI, KM 390",24400,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2403,Concesión,CAST Y L,León,ONZONILLA,"P.I. Onzonilla, Parc. G-20",24231,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2404,Concesión,CAST Y L,León,ASTORGA,PI ASTORGA PARCELAS 68 Y 69,24700,2,0,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",2405,Concesión,CAST Y L,León,CISTIERNA,PI VIDANES PARC 43 E 2,24800,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2406,Concesión,CAST Y L,León,VILLABLINO,"PI Laciana, parc. A-14 y 15",24100,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3401,Concesión,CAST Y L,Palencia,PALENCIA,"P.I. VILLALOBON,  C/Andalucia, 5 y 7",34003,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3402,Concesión,CAST Y L,Palencia,CERVERA DE PISUERGA,"CTRA CERVERA - AGUILAR DE CAMPÓO, KM 1",34840,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3403,Concesión,CAST Y L,Palencia,HERRERA DE P,"Ctra. P-227, Km. 2, 5-3, Polígono 502, Parcela 2",34400,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3701,Concesión,CAST Y L,Salamanca,CARBAJOSA DE LA SAGRADA,"Polígono Industrial “El Montalvo”. C/. Newton, 1",37188,3,1,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",3702,Concesión,CAST Y L,Salamanca,BEJAR,"CTRA N 630, KM 68",37700,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3703,Concesión,CAST Y L,Salamanca,CASTELLANOS DE MORISCOS,"P.I. DE CASTELLANOS DE MORISCOS C/A, PARC 108",37439,3,1,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",3704,Concesión,CAST Y L,Salamanca,CIUDAD RODRIGO,P.I. LA VIÑA PARC. 77,37500,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3705,Concesión,CAST Y L,Salamanca,PEÑARANDA DE B,"Polígono Industrial “El Inestal”, Manzana 2, Parcela E-1",37300,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",3706,Concesión,CAST Y L,Salamanca,VITIGUDINO,"Polígono Industrial , C/4, Parcela Equipamiento, junto a la Ctra. C-517",37210,1,0,0,1,0,,,
+ATISAE,4002,Concesión,CAST Y L,Segovia,VALVERDE DE MAJANO,Polígono Industrial “Nicomedes García”. C/. El Fresno 61,40140,2,1,0,1,0,,,
+ATISAE,4003,Concesión,CAST Y L,Segovia,CUELLAR,"Ctra. A-601 Km 47,800 Apdo. Correos 131",40200,3,1,0,2,0,,,
+ATISAE,4004,Concesión,CAST Y L,Segovia,EL ESPINAR,"Ctra. N-VI, Km. 67, Sector “La Pililla”",40400,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4201,Concesión,CAST Y L,Soria,SORIA,"CTRA DE LAS CASAS, S/N",42005,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4202,Concesión,CAST Y L,Soria,BURGO DE OSMA,"C/ Universidad, 112",42300,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4203,Concesión,CAST Y L,Soria,ALMAZAN,ESPACIO IND UI-8 PARC 1-1,42200,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4701,Concesión,CAST Y L,Valladolid,VALLADOLID,"P.I. ARGALES C/. VAZQUEZ DE MENCHACA, 2",47008,4,2,0,2,0,,,
+ITEVECASA,4702,Concesión,CAST Y L,Valladolid,TORDESILLAS,"P.I. DE LA VEGA, PARC. 4",47100,4,3,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4703,Concesión,CAST Y L,Valladolid,VALLADOLID,"P.I. SAN CRISTOBAL C/. ACERO, PARC. 16",47012,4,2,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",4704,Concesión,CAST Y L,Valladolid,MEDINA RIOSECO,"Polígono Industrial “Ctra. Villalpando II”, Parcelas 58 y 59",47400,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4705,Concesión,CAST Y L,Valladolid,PEÑAFIEL,"Polígono Industrial U.A. 35, Parcela Equipamiento 44A",47300,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4901,Concesión,CAST Y L,Zamora,MORALES DEL VINO,"CTRA SALAMANCA, SN",49190,3,1,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",4902,Concesión,CAST Y L,Zamora,BENAVENTE,"Ctra. Nacional VI, Km. 261",49600,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4903,Concesión,CAST Y L,Zamora,PUEBLA DE SANABRIA,"PI, Parcela 31",49300,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",4904,Concesión,CAST Y L,Zamora,TORO,"Polig. Único, Plan Parcial Norte nº 1, Parcela Equipamiento",49800,2,1,0,1,0,,,
+Grupo Itevelesa SL (05A2),05A2',Concesión,CAST Y L,Ávila,Arévalo,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (09A1),09A1',Concesión,CAST Y L,Burgos,Aranda de Duero,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+AtisaeCal (09A2),09A2',Concesión,CAST Y L,Burgos,Miranda De Ebro,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (09A3),09A3',Concesión,CAST Y L,Burgos,Aranda de Duero ,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (24A1),24A1',Concesión,CAST Y L,León,ONZONILLA,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (24A2),24A2',Concesión,CAST Y L,León,Ponferrada,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (24A3),24A3',Concesión,CAST Y L,León,Onzonilla,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (34A1),34A1',Concesión,CAST Y L,Palencia,Palencia,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (34A2),34A2',Concesión,CAST Y L,Palencia,Cervera de Pisuerga,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (37A2),37A2',Concesión,CAST Y L,Salamanca,Castellanos de Moriscos,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Atisae (40A1),40A1',Concesión,CAST Y L,Segovia,Valverde del Majano,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Atisae (40A2),40A2',Concesión,CAST Y L,Segovia,Valverde del Majano,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (42A2),42A2',Concesión,CAST Y L,Soria,El Burgo de Osma,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Itevecasa (47A2),47A2',Concesión,CAST Y L,Valladolid,Tordesillas,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (47A3),47A3',Concesión,CAST Y L,Valladolid,Valladolid,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+Grupo Itevelesa SL (49A2),49A2',Concesión,CAST Y L,Zamora,Benavente,UNIDAD MOVIL AGRÍCOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0802,Autorización,Cataluña,Barcelona,BADALONA,"C/ DE LA INDUSTRIA, 425",8912,4,3,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0803,Autorización,Cataluña,Barcelona,VILADECAVALLS,CTRA TERRASSA-OLESA,8232,4,3,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",0804,Autorización,Cataluña,Barcelona,VIC,P.I. DE VIC,8500,3,2,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0805,Autorización,Cataluña,Barcelona,S. JUST DESVERN,"AVDA RIERA, 19-21",8960,2,1,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0806,Autorización,Cataluña,Barcelona,MANRESA,P.I. BUFALVENT,8240,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0807,Autorización,Cataluña,Barcelona,VILADECANS,"C/ JOCELYN BELL, 16",8840,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0808,Autorización,Cataluña,Barcelona,ARGENTONA,P.I. EL CROS,8310,3,2,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0809,Autorización,Cataluña,Barcelona,OLERDOLA,P.I. S. PERE M.,8734,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0810,Autorización,Cataluña,Barcelona,BARCELONA,"PTGE. PUIGMADRONA, 9",8026,2,2,0,0,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0811,Autorización,Cataluña,Barcelona,CORNELLA,"AVDA DE LA CAMPSA,64",8940,3,3,0,0,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0812,Autorización,Cataluña,Barcelona,IGUALADA,"P.I. C/ PAISOS BAIXOS,18",8700,2,1,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0813,Autorización,Cataluña,Barcelona,BERGA,P.I. VALLDAN,8600,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0814,Autorización,Cataluña,Barcelona,BARCELONA,"C/ DIPUTACIO, 162",8026,2,2,0,0,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0815,Autorización,Cataluña,Barcelona,BARCELONA,"C/ MOTORS, 136",8040,4,3,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0816,Autorización,Cataluña,Barcelona,BARCELONA,"C/ CORCEGA, 384",8037,3,3,0,0,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0817,Autorización,Cataluña,Barcelona,VILANOVA I LA GELTRÚ,RDA EUROPA P.I. ROQUETES,8800,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0818,Autorización,Cataluña,Barcelona,GRANOLLERS,P.I. EL CONGOST,8400,3,2,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0819,Autorización,Cataluña,Barcelona,BARCELONA,AVILA 126-138,8018,3,3,0,0,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0820,Autorización,Cataluña,Barcelona,STA PERPETUA MOGODA,P.I. LES MINETES C/5 S/N,8130,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0821,Autorización,Cataluña,Barcelona,S. ANDREU BARCA,"CN-II,  PK 599,5",8740,2,1,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0822,Autorización,Cataluña,Barcelona,S. CUGAT VALLES,"C/ AMPOSTA, 2 ",8190,3,3,0,0,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",0823,Autorización,Cataluña,Barcelona,BARCELONA,"C/ CARACAS, 10",8030,2,2,0,0,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",0824,Autorización,Cataluña,Barcelona,SABADELL,"C/ CAN CAMPS, 1",8202,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",0825,Autorización,Cataluña,Barcelona,S. FRUITÓS DEL BAGES,C/ Malloles s/n,8272,2,1,0,1,0,,,
+"TÜV SÜD ATISAE, S.A.",0826,Autorización,Cataluña,Barcelona,SANT CELONI,"Carretera de gualba, 41, sector 1",8470,2,1,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1702,Autorización,Cataluña,Girona,CELRA,P.I. CELRA,17460,3,2,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1703,Autorización,Cataluña,Girona,VILAMALLA,P.I. EMPORDA INTERNAC.,17469,3,2,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1704,Autorización,Cataluña,Girona,OLOT,P.I. PLA BAIX,17800,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",1705,Autorización,Cataluña,Girona,PUIGCERDA,P.I. L'ESTACIO,17520,1,0,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1706,Autorización,Cataluña,Girona,PALAMOS,P.I. PLA DE S. JOAN,17230,2,1,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1707,Autorización,Cataluña,Girona,BLANES,"CTRA ESTACIO, 47",17300,3,2,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1708,Autorización,Cataluña,Girona,RIPOLL,PLA D'ORDINA,17500,1,0,0,1,0,,,
+"REVISIONS DE VEHICLES, S.A.",1709,Autorización,Cataluña,Girona,GIRONA,C/ SARRIA DE TER,17006,3,3,0,0,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",2502,Autorización,Cataluña,Lleida,LLEIDA,P.I. EL SEGRE,25191,4,3,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",2503,Autorización,Cataluña,Lleida,TREMP,"CTRA C. 1412, KM 54",25620,1,0,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",2504,Autorización,Cataluña,Lleida,MONTFERRER,CTRA LLEIDA-PUIGCERDA,25711,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",2505,Autorización,Cataluña,Lleida,GRANYANELLA,"CTRA NAL II, KM 512,700",25218,2,1,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",2506,Autorización,Cataluña,Lleida,SOLSONA,PTGE DELS AMETLLERS,25280,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",2507,Autorización,Cataluña,Lleida,ARTESA DE S,CTRA C-1412,25730,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",2508,Autorización,Cataluña,Lleida,VIELHA,"CTRA N230, K164",25530,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",2509,Autorización,Cataluña,Lleida,SORT,"CN 260, KM 284,5",25560,1,0,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2510,Autorización,Cataluña,Lleida,PONT DE SUERT,Pol. Ind. Sores  Parcela E1,25520,1,0,0,1,0,,,
+"TÜV SÜD ATISAE, S.A.",2511,Autorización,Cataluña,Lleida,LES BORGES BLANQUES,Pol. Ind. Les verdunes,25400,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",4302,Autorización,Cataluña,Tarragona,REUS,"CTRA NAL 340, KM 1154",43200,4,2,0,2,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",4303,Autorización,Cataluña,Tarragona,TORTOSA,P.I. BAIX EBRE,43500,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",4304,Autorización,Cataluña,Tarragona,MORA LA N.,P.I. PARTIDA AUBALS,43770,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",4305,Autorización,Cataluña,Tarragona,MONTBLANC,"CTRA ROJALS, KM 11,2",43400,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",4306,Autorización,Cataluña,Tarragona,TARRAGONA,"CAMI BUDELLERA, SN",43007,3,3,0,0,0,,,
+"GRUPO ITEVELESA, S.L.",4307,Autorización,Cataluña,Tarragona,BELLVEI,"Pol. Ind. Els Massets Sector 8, C/V3 parcelas 21-22-23",43719,2,1,0,1,0,,,
+"TÜV SÜD ATISAE, S.A.",4308,Autorización,Cataluña,Tarragona,AMPOSTA,"Pol. Ind. L'Oriola, carrer P - 18",43870,2,1,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",M01 (99011),Autorización,Cataluña,Tarragona,REUS,MOVIL UNIVERSAL,,1,0,0,1,0,,,
+"TÜV RHEINLAND CERTIO, S.L.",M03 (0833),Autorización,Cataluña,Barcelona,VILADECAVALLS,MOVIL UNIVERSAL,,1,0,0,1,0,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",M05 (98015),Autorización,Cataluña,Tarragona,REUS,MOVIL AGRICOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",M07 (98017),Autorización,Cataluña,Tarragona,REUS,MOVIL AGRICOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"APPLUS ITEUVE TECHNOLOGY, S.L.",M08 (98018),Autorización,Cataluña,Barcelona,SABADELL,MOVIL AGRICOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"REVISIONS DE VEHICLES, S.A.",M09 (1777),Autorización,Cataluña,Girona,CELRÀ,MOVIL AGRICOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"REVISIONS DE VEHICLES, S.A.",M10 (1752),Autorización,Cataluña,Girona,GIRONA,MOVIL UNIVERSAL,,1,1,0,0,0,,,
+"GRUPO ITEVELESA, S.L.",M11 (43A7),Autorización,Cataluña,Tarragona,BELLVEI,MOVIL AGRICOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"TÜV SÜD ATISAE, S.A.",M12 (9912),Autorización,Cataluña,Tarragona,AMPOSTA,MOVIL AGRICOLA Y CICLOMOTORES,,1,0,0,0,1,,,
+"TÜV SÜD ATISAE, S.A.",M13 (9913),Autorización,Cataluña,Lleida,LES BORGES BLANQUES,Pol. Ind. Les Verdunes. Cl Les Verdunes. Parcela 25,,1,0,0,0,1,,,
+GRUPO ITEVELESA,5101,Concesión,Ceuta,Ceuta,CEUTA,P.I. El Tarajal y Muelle Poniente,51003 y 51001,3,2,0,1,0,,,
+OFICIAL - JUNTA DE EXTREMADURA,0602,Gestión directa,Extremadura,Badajoz,BADAJOZ,"P.I. EL NEVERO, Avda. Miguel de Fabra, s/n",6006,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,0603,Gestión directa,Extremadura,Badajoz,MERIDA,"Centro Transportes Ctra. Mérida-Montijo Km 0,5",6800,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,0605,Gestión directa,Extremadura,Badajoz,ZAFRA,"P.I. LOS CAÑOS. C/ Río Bodión, 12",6300,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,0606,Gestión directa,Extremadura,Badajoz,VILLANUEVA DE LA SERENA,P.I. LA BARCA,6700,2,1,0,1,0,,Si,
+"ITV VEGA BAJA, S.A.",0607,Concesión,Extremadura,Badajoz,ALMENDRALEJO,"C/ VEREDA CORONA, SN",6200,3,2,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0608,Concesión,Extremadura,Badajoz,OLIVENZA,CTRA EXT107 BADAJOZ-VVA FRESNO,6100,3,2,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0609,Concesión,Extremadura,Badajoz,HERRERA DEL DUQUE,"PI HERRERA DEL DUQUE, Parcela I-2",6670,2,1,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0610,Concesión,Extremadura,Badajoz,DON BENITO,"PI C/ ARQUITECTOS, 1",6400,4,2,0,2,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0611,Concesión,Extremadura,Badajoz,AZUAGA,"PI SECTOR SUZ-1.  C/ Mina Santa Bárbara, 21",6920,3,1,0,2,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0612,Concesión,Extremadura,Badajoz,JEREZ DE LOS CABALLEROS,"PI EL PABELLON P 3,1",612,2,1,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0613,Concesión,Extremadura,Badajoz,CASTUERA,P.I. LA SERENA AVDA. DE EUROPA S/N,6420,2,1,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0614,Concesión,Extremadura,Badajoz,MONTIJO,"CARRETERA TORREMAYOR, 1",6480,2,1,0,1,0,,No,Nº 97/EI/ITV092
+DEKRA ITV ESPAÑA S.L.U.,0615,Concesión,Extremadura,Badajoz,BADAJOZ,ESTACIÓN ITV EN CONSTRUCCIÓN,,5,3,0,2,0,,No,Pendiente
+"ITV VEGA BAJA, S.A.",0651,Concesión,Extremadura,Badajoz,,MOVIL VEHICULO 0114 GJY,,1,0,0,0,1,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0652,Concesión,Extremadura,Badajoz,,MOVIL VEHÍCULO 0117GJY,,1,0,0,0,1,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0653,Concesión,Extremadura,Badajoz,,MOVIL VEHÍCULO 0123GJY,,1,0,0,0,1,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0654,Concesión,Extremadura,Badajoz,,MOVIL VEHÍCULO 0130 GJY,,1,0,0,0,1,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0655,Concesión,Extremadura,Badajoz,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",0656,Concesión,Extremadura,Badajoz,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+DEKRA ITV ESPAÑA S.L.U.,0657,Concesión,Extremadura,Badajoz,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Pendiente
+DEKRA ITV ESPAÑA S.L.U.,0658,Concesión,Extremadura,Badajoz,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Pendiente
+OFICIAL - JUNTA DE EXTREMADURA,1001,Gestión directa,Extremadura,Caceres,CACERES,"Centro de Transportes. CTRA NAL 630, KM 558",10195,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,1004,Gestión directa,Extremadura,Caceres,PLASENCIA,P.I. DE PLASENCIA. C/ GOICOCHEA,10600,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,1005,Gestión directa,Extremadura,Caceres,TRUJILLO,P.I. LAS DEHESILLAS,10200,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,1006,Gestión directa,Extremadura,Caceres,NAVALMORAL,"CTRA NAL 5, KM 180, ZONA DEL GOCHE.",10300,2,1,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,1007,Gestión directa,Extremadura,Caceres,CORIA,"Centro Transportes. Ctra  Coria-Navalmoral, KM 1,5",10800,1,0,0,1,0,,Si,
+OFICIAL - JUNTA DE EXTREMADURA,1008,Gestión directa,Extremadura,Caceres,MORALEJA,P.I. LA CAÑADA c/ CHORREÓN,10840,1,0,0,1,0,,Si,
+"ITV VEGA BAJA, S.A.",1009,Concesión,Extremadura,Caceres,VALENCIA DE A,"PI CERRO SAN FRANCISO Calle 12, nº 1",10500,2,1,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1010,Concesión,Extremadura,Caceres,JARAIZ DE LA VERA,"P.I. EL POCITO CALLE A, 14",10400,3,2,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1011,Concesión,Extremadura,Caceres,LOGROSAN,"PI EL PALOMAR C/ CAÑAMERO, 14",10195,2,1,0,1,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1012,Concesión,Extremadura,Caceres,MONTEHERMOSO,"P.I. MONTEHERMOSO C/ COBALTO,301 BIS",10810,2,1,0,1,0,,No,Nº 97/EI/ITV092
+DEKRA ITV ESPAÑA S.L.U.,1013,Concesión,Extremadura,Cáceres,CÁCERES,ESTACIÓN ITV EN CONSTRUCCIÓN,,5,3,0,2,0,,No,Pendiente
+"ITV VEGA BAJA, S.A.",1051,Concesión,Extremadura,Caceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1052,Concesión,Extremadura,Badajoz,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1053,Concesión,Extremadura,Badajoz,,MOVIL VEHÍCULO 5166 GJY,,1,1,0,0,1,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1054,Concesión,Extremadura,Badajoz,,MOVIL VEHÍCULO 5179 GJY,,1,1,0,0,1,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1055,Concesión,Extremadura,Cáceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1056,Concesión,Extremadura,Caceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1057,Concesión,Extremadura,Caceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1058,Concesión,Extremadura,Caceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+"ITV VEGA BAJA, S.A.",1059,Concesión,Extremadura,Caceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Nº 97/EI/ITV092
+DEKRA ITV ESPAÑA S.L.U.,1060,Concesión,Extremadura,Cáceres,,UNIDAD MÓVIL,,2,2,0,0,0,,No,Pendiente
+DEKRA ITV ESPAÑA S.L.U.,1061,Concesión,Extremadura,Cáceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Pendiente
+DEKRA ITV ESPAÑA S.L.U.,1062,Concesión,Extremadura,Cáceres,,UNIDAD MÓVIL,,1,0,0,0,1,,No,Pendiente
+DEKRA ITV ESPAÑA S.L.U.,1063,Concesión,Extremadura,Cáceres,,UNIDAD MÓVIL,,1,1,0,0,0,,No,Pendiente
+"SUP Y CONTROL, S.A.",1501,Concesión,Galicia,La Coruña,SADA,"CTRA NAL VI, KM 582",15168,5,2,0,3,0,,,
+"SUP Y CONTROL, S.A.",1502,Concesión,Galicia,La Coruña,SANTIAGO DE COMPOSTELA,"P.I. TAMBRE, VIA CIERVA, 2",15890,3,1,0,2,0,,,
+"SUP Y CONTROL, S.A.",1511,Concesión,Galicia,La Coruña,ARTEIXO,"P.I. DE SABON, P 69",15142,4,2,0,2,0,,,
+"SUP Y CONTROL, S.A.",1512,Concesión,Galicia,La Coruña,TEO,"CTRA SANTIAGO-ESTRADA, KM 6",15886,3,1,0,2,0,,,
+"SUP Y CONTROL, S.A.",1513,Concesión,Galicia,La Coruña,NARON,"P.I. LA GANDARA, P 106",15570,4,2,0,2,0,,,
+"SUP Y CONTROL, S.A.",1514,Concesión,Galicia,La Coruña,RIBEIRA,"AC 550 RIBEIRA - NOIA, KM 106,36",15969,2,0,0,2,0,,,
+"SUP Y CONTROL, S.A.",1516,Concesión,Galicia,La Coruña,TAMBRE,UNIDAD MOVIL 2,,2,2,0,0,0,,,
+"SUP Y CONTROL, S.A.",1517,Concesión,Galicia,La Coruña,TAMBRE,UNIDAD MOVIL 3,,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",1518,concesión,Galicia,La Coruña,SADA,UNIDAD MOVIL 11,,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",1521,Concesión,Galicia,La Coruña,SADA,UNIDAD MOVIL 7 (ciclomotores),,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",1530,Concesión,Galicia,La Coruña,ZAS,"PI O ALLO, PARC 17",15850,2,1,0,1,0,,,
+"SUP Y CONTROL, S.A. (SIONILLA)",1531,Concesión,Galicia,La Coruña,SANTIAGO DE COMPOSTELA,"Parque Empresarial de A Sionilla C/ Comunidad Valenciana, nº 3 ",15707,2,1,,1,,,,
+"SUP Y CONTROL, S.A.",2702,Concesión,Galicia,Lugo,VIVEIRO,"RUA A XUNQUEIRA, S/N",27850,2,0,0,2,0,,,
+"SUP Y CONTROL, S.A.",2703,Concesión,Galicia,Lugo,MONFORTE,"RUA MORIN, S/N",27400,2,0,0,2,0,,,
+"SUP Y CONTROL, S.A.",2711,Concesión,Galicia,Lugo,LUGO,"P.I. CEAO, RUA COMUNICACIÓNS, P 98B",27003,5,3,0,2,0,,,
+"SUP Y CONTROL, S.A.",2712,Concesión,Galicia,Lugo,FOZ,"RUA CHELAS, 17",27780,2,0,0,2,0,,,
+"SUP Y CONTROL, S.A.",2713,Concesión,Galicia,Lugo,LUGO,UNIDAD MOVIL 1,,2,2,0,0,0,,,
+"SUP Y CONTROL, S.A.",2716,Concesión,Galicia,Lugo,LUGO,UNIDAD MOVIL 4,,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",2722,Concesión,Galicia,Lugo,LUGO,UNIDAD MOVIL 8 (ciclomotores),,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",2730,Concesión,Galicia,Lugo,VILLALBA,"PE RUA DO TOXO PARC 24, 25, 26",27800,2,1,0,1,0,,,
+"SUP Y CONTROL, S.A.",3202,Concesión,Galicia,Orense,O BARCO,"AVDA DO SIL, 35",32315,2,0,0,2,0,,,
+"SUP Y CONTROL, S.A.",3211,Concesión,Galicia,Orense,PEREIRO DE AGUIAR,"P.E. PEREIRO DE AGUIAR, P 4",32710,5,3,0,2,0,,,
+"SUP Y CONTROL, S.A.",3212,Concesión,Galicia,Orense,VERIN,"P.I. DE PAZOS, P A-6",32600,2,0,0,2,0,,,
+"SUP Y CONTROL, S.A.",3217,Concesión,Galicia,Orense,ORENSE,UNIDAD MOVIL 5,,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",3230,Concesión,Galicia,Orense,XINZO DE LIMIA,PARQUE EMPRESARIAL P 47,32630,2,1,0,1,0,,,
+"SUP Y CONTROL, S.A",3231,Concesión,Galicia,Orense,O CARBALLIÑO,PARQUE EMPRESARIAL DE O CARBALLIÑO. PARCELA 30,32500,1,,,1,,,,
+"SUP Y CONTROL, S.A.",3601,Concesión,Galicia,Pontevedra,VIGO,"AVDA AEROPUERTO, 770",36318,5,2,0,3,0,,,
+"SUP Y CONTROL, S.A.",3602,Concesión,Galicia,Pontevedra,PONTEBORA,CTRA PONTEVEDRA OURENSE,36154,3,1,0,2,0,,,
+"SUP Y CONTROL, S.A.",3603,Concesión,Galicia,Pontevedra,VILAGARCIA,"P.I. TRABANCA-BADIÑA, PATIÑO 27-31",36600,3,1,0,2,0,,,
+"SUP Y CONTROL, S.A.",3611,Concesión,Galicia,Pontevedra,PORRIÑO,P.I. LAS GANDARAS P 1-1ª,36418,4,2,0,2,0,,,
+"SUP Y CONTROL, S.A.",3612,Concesión,Galicia,Pontevedra,BARRO,"CTRA PONTEV.-VILLAGARC., KM 7,5",36191,2,1,0,1,0,,,
+"SUP Y CONTROL, S.A.",3613,Concesión,Galicia,Pontevedra,LALIN,"P.I. LALIN 2000, P B-52",36500,2,1,0,1,0,,,
+"SUP Y CONTROL, S.A.",3620,Concesión,Galicia,Pontevedra,PORRIÑO,UNIDAD MOVIL 6,,2,2,0,0,0,,,
+"SUP Y CONTROL, S.A.",3623,Concesión,Galicia,Pontevedra,VIGO,UNIDAD MOVIL 9 (ciclomotores),,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",3624,Concesión,Galicia,Pontevedra,PONTEBORA,UNIDAD MOVIL 10,,1,0,0,0,1,,,
+"SUP Y CONTROL, S.A.",3630,Concesión,Galicia,Pontevedra,BUEU,"PE BUEU, PARC 32",36390,2,1,0,1,0,,,
+"SUP Y CONTROL, S.A.",3631,Concesión,Galicia,Pontevedra,NIGRAN,P.I. PORTO DO MOLLE PARCELA Z-1.B-8.12,36350,3,1,0,2,0,,,
+"OCA INSPECCIÓN TÉCNICA DE VEHÍCULOS, SA. ",2602,Autorización,La Rioja,la Rioja,SANTO DOMINGO DE LA CALZADA,"CTRA BURGOS, KM 46",26250,3,1,0,1,1,,NO,28/EI/ITV044
+"RIOJA REVISIONES, S.A.",2603,Autorización,La Rioja,la Rioja,CALAHORRA,"C/ RIFONDO, 7 P.I. TEJERIAS ",26500,3,1,0,1,1,,NO,11/EI/ITV010
+"ASISTENCIA TÉCNICA INDUSTRIAL, SAU",2605,Autorización,La Rioja,la Rioja,LOGROÑO,"C/ SOTO GALO, 8 P.I.CANTABRIA, I",26006,3,2,0,1,0,,NO,04/EI/ITV003
+"ITEVEFIRSA, S.L.",2606,Autorización,La Rioja,la Rioja,LOGROÑO,"C/ BARRIGUELO, 6 P.I. CANTABRIA I",26006,4,1,0,2,1,,NO,24/EI/ITV032
+"ASISTENCIA TÉCNICA INDUSTRIAL, SAU",2607,Autorización,La Rioja,la Rioja,NAJERA,"CTRA DE URUÑUELA, K 1,5",26300,3,1,0,1,1,,NO,04/EI/ITV003
+"ITEVEFIRSA, S.L.",2608,Autorización,La Rioja,la Rioja,LOGROÑO,"CHOZO, 30, P.I. LA PORTALADA",26007,2,1,0,1,0,,NO,24/EI/ITV032
+"RIOJA REVISIONES, S.A.",2609,Autorización,La Rioja,la Rioja,ARNEDO,"C/ SERONEROS, 12 PI EL CAMPILLO",26580,2,1,0,1,0,,NO,11/EI/ITV010
+"OCA INSPECCIÓN TÉCNICA DE VEHÍCULOS, SA",2610,Autorización,La Rioja,la Rioja,HARO,"C/ LOS ALAMOS, 95 PI FUENTE CIEGA",26200,2,1,0,1,0,,NO,28/EI/ITV044
+"RIOJA REVISIONES, S.A.",2611,Autorización,La Rioja,la Rioja,ALFARO,"P.I. LA SENDA, PARCELA A3",26540,2,1,0,1,0,,NO,11/EI/ITV010
+"BARCEL EURO INVERSIONES, S.A.",2801,Gestión privada,Madrid,Madrid,GETAFE,"CTRA NAL IV,KM 15,400",28906,9,4,0,5,0,,,
+"BARCEL EURO INVERSIONES, S.A.",2801,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2801,28906,1,0,0,0,1,,,
+"ITVERSIA GESTIÓN, S.L.",2802,Gestión privada,Madrid,Madrid,MADRID,"CTRA VILLAVERDE, KM 3,5",28053,5,3,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",2803,Gestión privada,Madrid,Madrid,MADRID,AVENIDA DE SANTA CATALINA Nº 11,28053,1,0,0,1,0,,,
+"BARCEL EURO INVERSIONES, S.A.",2804,Gestión privada,Madrid,Madrid,LEGANÉS,"BENJAMÍN OUTRAM, 5 PARQUE TECNOLÓGICO DE LEGANÉS",28918,4,3,0,1,0,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2806,Gestión privada,Madrid,Madrid,ALCOBENDAS,"Av. Valdelaparra, 1",28108,2,1,0,1,0,,,
+"LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L.",2807,Gestión privada,Madrid,Madrid,ARGANDA DEL REY,CAMINO SAN MARTÍN DE LA VEGA Nº8,28500,3,2,0,1,0,,,
+"LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L.",2807,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2807,28500,1,0,0,0,1,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2808,Gestión privada,Madrid,Madrid,PARACUELLOS DEL JARAMA,CAMINO VIEJO DE COBEÑA 36,28860,2,1,0,1,0,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2809,Gestión privada,Madrid,Madrid,GETAFE,MORSE 2,28906,2,1,0,1,0,,,
+"ENTIDAD IDV MADRID, S.L.",2810,Gestión privada,Madrid,Madrid,MADRID,"NUESTRA SRA DE VALVERDE, 179",28034,3,2,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2811,Gestión privada,Madrid,Madrid,TRES CANTOS,"SAN ISIDRO LABRADOR, 6",28760,4,3,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2812,Gestión privada,Madrid,Madrid,LOZOYUELA,"CTRA NAL I, KM 66",28752,2,1,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2812,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2812,28752,1,0,0,0,1,,,
+"TÜV SUD ATISAE, S.A.U.",2813,Gestión privada,Madrid,Madrid,COLLADO VILLALBA,"ESCOFINA, 3 PI P-29",28400,3,2,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2814,Gestión privada,Madrid,Madrid,ALCOBENDAS,"C/ PEÑALARA, 29 PE VALDECASA",28108,3,2,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2815,Gestión privada,Madrid,Madrid,COSLADA,ALCARRIA 2,28823,2,1,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2816,Gestión privada,Madrid,Madrid,LAS ROZAS,"CABO RUFINO LAZARO 14D, P4,1",28232,3,2,0,1,0,,,
+"ITV BARBASTRO, S.A.U.",2818,Gestión privada,Madrid,Madrid,ALGETE,AVDA. NICASIO MARTIN 4,28100,2,1,0,1,0,,,
+"ITV BARBASTRO, S.A.U.",2819,Gestión privada,Madrid,Madrid,MEJORADA DEL CAMBO,LEVANTE 10,28840,2,1,0,1,0,,,
+"ITV BARBASTRO, S.A.U.",2819,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2819,28840,1,0,0,0,1,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2820,Gestión privada,Madrid,Madrid,MADRID,"MAURICIO LEGENDRE, 40",28046,1,0,0,1,0,,,
+"INSPECCIÓN TÉCNICA DEL TRANSPORTE, S.A. (INTECTRA)",2821,Gestión privada,Madrid,Madrid,SAN SEBASTIÁN DE LOS REYES,"CTRA NAL I, KM 23,500",28700,7,5,0,2,0,,,
+"INSPECCIÓN TÉCNICA DEL TRANSPORTE, S.A. (INTECTRA)",2821,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2821,28700,1,0,0,0,1,,,
+"GRUPO ITEVELESA, S.L.",2822,Gestión privada,Madrid,Madrid,MADRID,AVDA. NICETO ALCALÁ ZAMORA C/V PÍ Y MARGAL,28050,1,0,0,1,0,,,
+"INSPECCIÓN TÉCNICA DEL TRANSPORTE, S.A. (INTECTRA)",2823,Gestión privada,Madrid,Madrid,POZUELO DE ALARCÓN,"VIRGILIO, 8",28223,4,3,0,1,0,,,
+"INSPECCIÓN TÉCNICA DEL TRANSPORTE, S.A. (INTECTRA)",2824,Gestión privada,Madrid,Madrid,MADRID,"AVD DE LA DEMOCRACIA, 13-BIS",28031,4,3,0,1,0,,,
+MOTIELCO ITV S.L.,2828,Gestión privada,Madrid,Madrid,MADRID,"CTRA. VALENCIA A-3 KM 7,100",28031,3,2,0,1,0,,,
+MOTIELCO ITV S.L.,2828,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2828,28031,1,0,0,0,1,,,
+"ALCARAVAN GESTIÓN E INVERSIONES, S.L.",2829,Gestión privada,Madrid,Madrid,HUMANES DE MADRID,AV. DE FUENLABRADA 15,28970,3,2,0,1,0,,,
+"ALCARAVAN GESTIÓN E INVERSIONES, S.L.",2829,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2829,28970,1,0,0,0,1,,,
+"ESTACIÓN DE SERVICIO PINAR DE CHAMARTIN, S.A.",2830,Gestión privada,Madrid,Madrid,MADRID,MARIA DE PORTUGAL 15,28050,2,1,0,1,0,,,
+"ESTACIÓN DE SERVICIO PINAR DE CHAMARTIN, S.A.",2830,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2830,28050,1,0,0,0,1,,,
+"GRUPO ITEVELESA, S.L.",2831,Gestión privada,Madrid,Madrid,LAS ROZAS,"CTRA NAL VI, KM 20,400",28230,7,5,0,2,0,,,
+"GRUPO ITEVELESA, S.L.",2831,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2831,28230,1,0,0,0,1,,,
+"GRUPO ITEVELESA, S.L.",2832,Gestión privada,Madrid,Madrid,COLLADO VILLALBA,"CTRA NAL VI, KM 37,600",28400,4,3,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2833,Gestión privada,Madrid,Madrid,ALCOBENDAS,"AVDA. FUENCARRAL, 100",28108,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2834,Gestión privada,Madrid,Madrid,ALCORCÓN,"AVDA AMERICA, 6",28922,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2835,Gestión privada,Madrid,Madrid,MADRID,"CTRA BARRIO LA FORTUNA, 10",28054,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2836,Gestión privada,Madrid,Madrid,EL MOLAR,"CTRA A 1 KM 40,200 ",28710,2,1,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2837,Gestión privada,Madrid,Madrid,Madrid,"CALLE ARTE ABSTRACTO, Nº4",28051,2,1,0,1,0,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2838,Gestión privada,Madrid,Madrid,GETAFE,CALLE MARIE CURIE 19,28906,2,1,0,1,0,,,
+"ITV PELAYOS,S.L.",2839,Gestión privada,Madrid,Madrid,PELAYOS DE LA PRESA,HILERO 3,28696,2,1,0,1,0,,,
+"ITV PELAYOS,S.L.",2839,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2839,28696,1,0,0,0,1,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2840,Gestión privada,Madrid,Madrid,MADRID,SAGITARIO 2,28023,3,2,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2841,Gestión privada,Madrid,Madrid,PARLA,"BERLÍN, 1",28983,2,1,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2842,Gestión privada,Madrid,Madrid,LEGANÉS,"P.I. C/ESTEBAN TERRADAS, S/N",28914,3,1,0,2,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2843,Gestión privada,Madrid,Madrid,NAVAS DEL REY,"SANDRO PERTINI, 1 P.I. NAVAS DEL REY",28695,2,1,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2844,Gestión privada,Madrid,Madrid,ALCORCÓN,"P.I. URTINSA LAS FÁBRICAS, 17",28925,3,1,0,2,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2845,Gestión privada,Madrid,Madrid,NAVALCARNERO,"Pº. ALPARRACHE, 26",28600,2,1,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2846,Gestión privada,Madrid,Madrid,MADRID,VENTURA DÍAZ BERNARDO S/N,28054,1,0,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2847,Gestión privada,Madrid,Madrid,MÓSTOLES,"AV REGUERA, 14 PI FUENSANTA",28936,2,1,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2847,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2847,28936,1,0,0,0,1,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2848,Gestión privada,Madrid,Madrid,RIVAS VACIAMADRID,"MARIANO BARBACID, 8",28521,3,2,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2849,Gestión privada,Madrid,Madrid,FUENLABRADA,"AV DE LA INDUSTRIA, 5 PI LA CANTUEÑA",28947,2,1,0,1,0,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2850,Gestión privada,Madrid,Madrid,SAN SEBASTIÁN DE LOS REYES,AV FUENTE NUEVA 7,28703,2,1,0,1,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2851,Gestión privada,Madrid,Madrid,COSLADA,"AVDA. SAN PABLO, 29",28823,4,3,0,1,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2852,Gestión privada,Madrid,Madrid,ARGANDA DEL REY,"CAMINO PUENTE VIEJO, S/N",28500,3,1,0,2,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2852,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2852,28500,1,0,0,0,1,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2853,Gestión privada,Madrid,Madrid,VILLAREJO SALVANÉS,"JUAN CARLOS I, S/N P.I.",28590,1,0,0,1,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2854,Gestión privada,Madrid,Madrid,ARANJUEZ,"P.I. GONZALO CHACÓN, 11",28300,2,0,0,2,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2856,Gestión privada,Madrid,Madrid,MÓSTOLES,"C/ JULIO CERVERA, 21 ",28935,3,2,0,1,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2857,Gestión privada,Madrid,Madrid,ALCALA HENARES,"A/ DAGANZO, 19",,2,1,0,1,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2858,Gestión privada,Madrid,Madrid,MADRID,"C/ TRESETA, 23",28054,3,2,0,1,0,,,
+"GENERAL DE SERVICIOS ITV, S.A.",2859,Gestión privada,Madrid,Madrid,GETAFE,RIO GUADALQUIVIR 20,28906,3,2,0,1,0,,,
+"ITV TRES AGUAS, SL",2860,Gestión privada,Madrid,Madrid,ALCORCÓN,"AV S MARTIN DE VALDEIGL, 7",28922,3,1,0,2,0,,,
+"ITV TRES AGUAS, SL",2860,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2860,28922,1,0,0,0,1,,,
+"ITVERSIA GESTIÓN, S.L.",2861,Gestión privada,Madrid,Madrid,TORREJON DE ARDOZ,"JACINTO BENAVENTE, 6 P.I. CASABLANCA ESTE",28850,3,2,0,1,0,,,
+"ITVERSIA GESTIÓN, S.L.",2861,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2861,28850,1,0,0,0,1,,,
+"ENTIDAD IDV MADRID, S.L.",2862,Gestión privada,Madrid,Madrid,MAJADAHONDA,"C/ FRESA, 12 PI EL CARRALERO",28222,4,3,0,1,0,,,
+"ENTIDAD IDV MADRID, S.L.",2862,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2862,28222,1,0,0,0,1,,,
+"ITV VALDEMORO, S.L.",2863,Gestión privada,Madrid,Madrid,VALDEMORO,"VEREDA DE LA SOLANA, 43-45",28340,3,2,0,1,0,,,
+"ITV VALDEMORO, S.L.",2863,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2863,28340,1,0,0,0,1,,,
+"ITV MACO, S.L.",2864,Gestión privada,Madrid,Madrid,PINTO,"AVUTARDAS, 7 P.I. EL CASCAJAL",28320,2,1,0,1,0,,,
+"ITV MACO, S.L.",2864,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2864,28320,1,0,0,0,1,,,
+"ITV MACO, S.L.",2865,Gestión privada,Madrid,Madrid,TORREJON DE ARDOZ,"AV CONSTITUCIÓN, 3",28850,3,1,0,2,0,,,
+"ITV CERCEDA, SL",2866,Gestión privada,Madrid,Madrid,CERCEDA,"CTRA M-607, K 48,200",28412,2,1,0,1,0,,,
+"ITV CERCEDA, SL",2866,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2866,28412,1,0,0,0,1,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2867,Gestión privada,Madrid,Madrid,PINTO,"C/ CARPINTEROS, 13 PARC M",28320,4,2,0,2,0,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2867,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2867,28320,1,0,0,0,1,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2868,Gestión privada,Madrid,Madrid,ALCOBENDAS,"C/ LA MALICIOSA, S/N PARC 2",28108,3,2,0,1,0,,,
+ITV RIVAS S.L.,2869,Gestión privada,Madrid,Madrid,RIVAS VACIAMADRID,"CINCEL, 2 BIS",28521,4,2,0,2,0,,,
+ITV RIVAS S.L.,2869,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2869,28521,1,0,0,0,1,,,
+"ITV MOSTOLES, SL",2870,Gestión privada,Madrid,Madrid,MÓSTOLES,"FEDERICO CANTERO VILLAMIL, 18",28935,3,2,0,1,0,,,
+"ITV MOSTOLES, SL",2870,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2870,28935,1,0,0,0,1,,,
+"ITV VILLAVICIOSA, SL",2871,Gestión privada,Madrid,Madrid,ALCORCÓN,"CTRA M 506, P.K 4,200",28925,2,1,0,1,0,,,
+"ITV VILLAVICIOSA, SL",2871,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2871,28925,1,0,0,0,1,,,
+"TÜV SUD ATISAE, S.A.U.",2873,Gestión privada,Madrid,Madrid,ARROYOMOLINOS,"FRESADORES, 3 P.I. VALDEFUENTE",28939,2,1,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2875,Gestión privada,Madrid,Madrid,FUENLABRADA,"C/ ALMENDRO, 4 NAVE 2",28942,2,1,0,1,0,,,
+"ENTIDAD IDV MADRID, S.L.",2876,Gestión privada,Madrid,Madrid,MADRID,"AV PARQUE 2B, PI VICALVARO",28052,3,2,0,1,0,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2877,Gestión privada,Madrid,Madrid,LEGANÉS,"A CARLOS SAINZ, 33 P.I. CIUDAD DEL AUTOMÓVIL",28914,3,2,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2878,Gestión privada,Madrid,Madrid,ALCALA HENARES,"A JUAN CARLOS I, SN CC LA GARENA",28806,3,2,0,1,0,,,
+"TÜV SUD ATISAE, S.A.U.",2879,Gestión privada,Madrid,Madrid,LEGANÉS,"PRIMAVERA, 1 - CC ARROYO SUR",28914,3,2,0,1,0,,,
+"GRUPO ITEVELESA, S.L.",2880,Gestión privada,Madrid,Madrid,COSLADA,"AV CONSTITUCIÓN, 4",28821,3,2,0,1,0,,,
+"ITV JARAMA, S.L.",2881,Gestión privada,Madrid,Madrid,SAN FERNANDO HENARES,"TAPICEROS, 2",28830,3,1,0,2,0,,,
+"ITV JARAMA, S.L.",2881,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2881,28830,1,0,0,0,1,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2882,Gestión privada,Madrid,Madrid,ALCORCÓN,"C ALPEDRETE, E12 PI VENTORRO",28925,4,2,0,2,0,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2882,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2882,28925,1,0,0,0,1,,,
+"ITV P-29 COLLADO VILLABA, SL",2883,Gestión privada,Madrid,Madrid,COLLADO VILLALBA,"C/ BURIL, 10 PI P-29",28400,3,2,0,1,0,,,
+"ITV P-29 COLLADO VILLABA, SL",2883,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2883,28400,1,0,0,0,1,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2884,Gestión privada,Madrid,Madrid,MADRID,PI FIN DE SEMANA,28022,3,2,0,1,0,,,
+"ITV ZONA CENTRO, SL",2886,Gestión privada,Madrid,Madrid,MADRID,"CTRA VILLAVERDE VALLECAS, 283",28031,3,2,0,1,0,,,
+"ITV ZONA CENTRO, SL",2886,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2886,28031,1,0,0,0,1,,,
+"LIDERCON, SL",2888,Gestión privada,Madrid,Madrid,LEGANÉS,"REY PASTOR, 5 PI NS BUTARQUE",28914,2,1,0,1,0,2024-12-02,,
+"LIDERCON, SL",2888,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2888,28914,1,0,0,0,1,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2890,Gestión privada,Madrid,Madrid,COLMENAR VIEJO,"PERFUMERÍA, 1 P.I. LA MINA",28770,2,1,0,1,0,,,
+"ITVERSIA GESTIÓN, S.L.",2891,Gestión privada,Madrid,Madrid,ALCALA HENARES,"VIA COMPLUTENSE, 105",28091,2,1,0,1,0,,,
+"ITV MADRID-VILLAVERDE, SL",2892,Gestión privada,Madrid,Madrid,MADRID,"C/ S SALMACIO, 13",28021,3,2,0,1,0,,,
+"ITV MADRID-VILLAVERDE, SL",2892,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2892,28021,1,0,0,0,1,,,
+"TUV RHEINLAND IBÉRICA, S.A.",2894,Gestión privada,Madrid,Madrid,MADRID,C/MIGUEL YUSTE 31,28037,2,1,0,1,0,,,
+ITV A 42 KM 9 S.L.,2895,Gestión privada,Madrid,Madrid,MADRID,"AUTOVIA A-42 KM 9,8",28021,2,1,0,1,0,,,
+ITV A 42 KM 9 S.L.,2895,Gestión privada,Madrid,Madrid,(Móvil),Unidad Móvil 2895,28021,1,0,0,0,1,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2896,Gestión privada,Madrid,Madrid,LEGANÉS,"C/ REY PASTOR, 28",28914,2,1,0,1,0,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2897,Gestión privada,Madrid,Madrid,PARLA,"C/ ROMA, 9 ",28983,2,1,0,1,0,,,
+"DEKRA ITV ESPAÑA, S.L.U.",2898,Gestión privada,Madrid,Madrid,LEGANÉS,"C/ HERRAMIENTAS, 8",28918,2,1,0,1,0,,,
+"APPLUS ITEUVE TECNLOLOGY, S.L.U.",2899,Gestión privada,Madrid,Madrid,MADRID,"C/ BRUNO ABUNDEZ , 37",28022,3,2,0,1,0,,,
+"IVESUR MELILLA SAU, SA",5201,Gestión privada,MELILLA,MELILLA,MELILLA,"AVDA EUROPA, DE, 63 LOCAL 5",52006,2,1,0,1,0,,,
+"ITV MELILLA, S.L",5202,Gestión privada,MELILLA,MELILLA,MELILLA,"C/ La Dalia, nº 25",52006,3,2,0,1,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3002,Privada,Murcia,Murcia,CARTAGENA,LA ASOMADA,30300,4,2,2,0,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3003,Privada,Murcia,Murcia,LORCA,P.I. LORCA,30800,2,1,1,0,0,,,
+"ITEVEMUR, S.L.",3004,Privada,Murcia,Murcia,JUMILLA,"CTRA A YECLA, KM 42",30520,4,2,2,0,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3005,Privada,Murcia,Murcia,CARAVACA,VENTA CAVILA,30400,2,1,1,0,0,,,
+"INSPECCIONES MURCIA, S.A.",3006,Privada,Murcia,Murcia,ESPINARDO,"AVDA. JUAN CARLOS I, SN",30100,3,2,0,1,0,,,
+"ITEVEMUR, S.L.",3007,Privada,Murcia,Murcia,MOLINA SEGURA,"P.I. LA SERRETA, C/ BUENOA AIRES, 62",30500,4,2,2,0,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3008,Privada,Murcia,Murcia,S PEDRO P,P.I. LAS BEATAS,30740,3,2,1,0,0,,,
+"EUROINSPECCIONES,S.L.",3009,Privada,Murcia,Murcia,LORCA,"P.I.LA HOYA SECTOR 7,1 PARC.1,2-1,1,3",30816,3,1,1,1,0,,,
+"PROYECTOS Y DESARROLLOS JOVERCO, S.L.",3010,Privada,Murcia,Murcia,MURCIA,"AVDA. DE ALICANTE, 10",30001,7,4,0,2,0,,,
+"VILLAESCUSA ITV MAR MENOR, S.L.",3011,Privada,Murcia,Murcia,SAN JAVIER,"C/SIERRA DE LA MUELA, S/N, P.I. LOS URREAS",30720,4,2,0,2,0,,,
+"SERVICIOS ITV YECLA, S.L.",3012,Privada,Murcia,Murcia,YECLA,"AVDA. LA PAZ, 214",30510,3,2,0,1,0,,,
+"ITEVEMUR, S.L.",3013,Privada,Murcia,Murcia,CARTAGENA,"P.I. CABEZO BEAZA, CALLE BERLÍN, 1",30201,2,1,0,1,0,,,
+"MECOD PROYECTA, S.L.",3014,Privada,Murcia,Murcia,YECLA,"AVDA. LA PAZ, 216",30510,2,1,0,1,0,,,
+"ITV LA HITA, S.L.",3015,Privada,Murcia,Murcia,TORRE PACHECO,"C/CARTAGENA, 80",30700,3,2,0,1,0,,,
+"ITV LA HITA, S.L.",3016,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"C/CARTAGENA, 80",30700,0,0,0,0,0,,,
+"ITV LA HITA, S.L.",3017,Privada,Murcia,Murcia,LORCA,"P.I. SAPRELORCA, AVDA. MANUEL MARTÍNEZ BAREA, 17",30800,4,2,0,2,0,,,
+"SERVICIOS EXTERNOS Y APROVISIONAMIENTO, S.L.",3018,Privada,Murcia,Murcia,MURCIA,"CTRA. MADRID-CARTAGENA, KM 383 EN EL PUNTAL",30001,3,2,0,1,0,,,
+"ITEVEMUR, S.L.",3019,Privada,Murcia,Murcia,MURCIA,"AVDA. DOCTOR PEDRO GUILLÉN, 8 EN ESPINARDO",30001,3,2,0,1,0,,,
+"ANGOSTO GARCÍA, S.L.",3020,Privada,Murcia,Murcia,CARTAGENA,"CTRA. CARTAGENA-ALMERÍA, KM 7,5 EN MOLINOS MARFAGONES",30201,2,1,0,1,0,,,
+"BASER INSPECCIONES TÉCNICAS, S.L.",3021,Privada,Murcia,Murcia,MURCIA,"AVDA. 1º DE MAYO, 5",30001,3,2,0,1,0,,,
+"SURESTE CONTROL, S.L.",3022,Privada,Murcia,Murcia,TOTANA,"C/GALILEO GALILEI, S/N, P5 Y P6 DE P.I. EL SALADAR",30850,3,1,0,2,0,,,
+"VILLAESCUSA ITV MAR MENOR, S.L.",3023,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"C/SIERRA DE LA MUELA, S/N, P.I. LOS URREAS",30720,0,0,0,0,0,,,
+"ITV LA HITA, S.L.",3024,Privada,Murcia,Murcia,MOLINA SEGURA,"CTRA DE MOLINA A AGUAZAS, KM 0,4",30500,4,2,0,2,0,,,
+"EUROINSPECCIONES,S.L.",3026,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"P.I.LA HOYA SECTOR 7,1 PARC.1,2-1,1,3",30816,0,0,0,0,0,,,
+"ITV LA HITA, S.L.",3027,Privada,Murcia,Murcia,MAZARRÓN,INTERSECCIÓN RM607 Y RM18,30870,3,2,1,0,0,,,
+"ITV EL ARREAQUE, S.L.",3028,Privada,Murcia,Murcia,MULA,PARCELA 6 MANZANA 12 P.I. ARREAQUE,30170,2,1,0,1,0,,,
+"INSPECCIONES TÉCNICAS DE LEVANTE, S.L. (NO OPERATIVA)",3029,Privada,Murcia,Murcia,FUENTE ÁLAMO,VÍA DE SERVICIO AUTOVÍA A-30 KM 170,30320,2,1,1,0,0,2025-12-16,,
+"INTEVEGA THADER, S.L.",3030,Privada,Murcia,Murcia,MOLINA SEGURA,CTRA FORTUNA A-5,30500,4,2,0,2,0,,,
+INSPECCIONES LA HITA S.L.,3031,Privada,Murcia,Murcia,BALSAPINTADA,CTRA RM-E12 EN BALSAPINTADA,30332,4,2,0,2,0,,,
+"ITV VEGA BAJA, S.A.",3032,Privada,Murcia,Murcia,CIEZA,"AVDA. ISAAC PERAL, P.I. LOS PRADOS, MANZANA 6, PARCELA 6,3",30530,3,1,0,2,0,,,
+"ITEVEMUR, S.L.",3033,Privada,Murcia,Murcia,ALHAMA DE MURCIA,"P.I. LAS SALINAS, AVDA. EUROPA, 12",30840,2,0,0,2,0,,,
+"ITV EL ARREAQUE, S.L.",3034,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),PARCELA 6 MANZANA 12 P.I. ARREAQUE,30170,0,0,0,0,0,,,
+"INSPECCIONES DE MURCIA, S.A.",3035,Privada,Murcia,Murcia,MURCIA,CTRA SANTA CATALINA,30001,3,2,0,1,0,,,
+"ITV NOROESTE, S.L.",3036,Privada,Murcia,Murcia,CARAVACA DE LA CRUZ,"CTRA DE CALASPARRA, KM 0,2",30400,3,2,0,1,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3037,Privada,Murcia,Murcia,CARTAGENA,"CAMINO DE SUBIDA AL CEMENTERIO, NAVE 2",30201,2,1,0,1,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3038,Privada,Murcia,Murcia,ÁGUILAS ,C/ LAS MÁSCARAS. P.I. EL LABRADORCICO,30880,2,1,0,1,0,,,
+"INSPECCIONES LA HITA, SL.",3039,Privada,Murcia,Murcia,MURCIA,"C/FCO SALZILLO, PAR. 30/22, P.I. OESTE, SAN GINÉS (MURCIA)",30001,4,2,0,2,0,,,
+"ITV NOROESTE, S.L.",3040,Privada,Murcia,Murcia,LORCA,"ALMENARA 17, P.I. LOS PEÑONES",30800,3,2,0,1,0,,,
+"ITV NOROESTE, S.L.",3041,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"ALMENARA 17, P.I. LOS PEÑONES",30800,0,0,0,0,0,,,
+"ITV NOROESTE, S.L.",3042,Privada,Murcia,Murcia,CARAVACA DE LA CRUZ,"PARAJE SANTA INÉS, 59",30400,3,2,0,1,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3043,Privada,Murcia,Murcia,CARAVACA DE LA CRUZ,"CTRA DE MURCIA, KM 60,8",30400,2,1,0,1,0,,,
+"ITV LA HITA, S.L.",3044,Privada,Murcia,Murcia,SAN PEDRO DEL PINATAR,"AVDA. DEL PILAR, C/LAGO DE ENOL, C/LAGO DE LA NAVA Y C/ALCALDE JUAN HURTADO",30740,3,2,0,1,0,,,
+"INSPECCIONES TÉCNICAS DE LEVANTE, S.L. (NO OPERATIVA)",3045,Privada,Murcia,Murcia,FUENTE ÁLAMO (MOVIL AGRICOLAS Y CICLOMOTORES),VÍA DE SERVICIO AUTOVÍA A-30 KM 170,30320,0,0,0,0,0,2025-12-16,,
+"ITV VEGA BAJA, S.A.",3046,Privada,Murcia,Murcia,SANTOMERA,"P.I. VICENTE ANTOLÍN CTRA ABANILLA 27, MANZANA 2 PARCELA 12",30140,2,1,0,1,0,,,
+"PISTAS ITEUVE, S.A.",3047,Privada,Murcia,Murcia,SANTOMERA,CTRA ABANILLA RM414 KM2,30140,3,2,0,1,0,,,
+"INSPECCIONES DE MURCIA, S.A.",3048,Privada,Murcia,Murcia,LORQUÍ,C/RIO ARGOS. P.I. EL SALADAR,30564,2,1,0,1,0,,,
+"ITV NOROESTE, S.L.",3049,Privada,Murcia,Murcia,SAN PEDRO DEL PINATAR,"CTRA CALASPARRA, KM 0,2",30740,3,2,0,1,0,,,
+"ITV LA HITA, S.L.",3051,Privada,Murcia,Murcia,COBATILLAS,"CTRA ALICANTE, 52",30163,3,2,0,1,0,,,
+ANGOSTO GARCIA S.L. ,3052,Privada,Murcia,Murcia,LA UNIÓN   ,C/ Mina Buena Suerte Parcela 13.A Polígono Industrial Lo Bolarin ,30630,2,1,0,1,0,,,
+BASER INSPECCIONES TECNICAS S.L. ,3053,Privada,Murcia,Murcia,SANGONERA LA SECA ,Avda. Rio Seco D2-2,30835,3,1,0,2,0,,,
+"ITV VEGA BAJA, S.A.",3054,Privada,Murcia,Murcia,FORTUNA,"C/ Baco, 14, Polígono Industrial “Fortuna I”",30629,4,1,0,2,0,,,
+"PROYECTOS Y DESARROLLOS JOVERCO, S.L.",3055,Privada,Murcia,Murcia,YECLA,"C/ Dr. Trueta, P.I. Las Teresas, Parcela A-19(1)",30510,4,2,0,2,0,,,
+"ITEVEMUR, S.L.",3056,Privada,Murcia,Murcia,YECLA,"Avda. Juan Carlos I, 63",30510,3,1,0,1,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3092,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"CTRA DE LA ASOMADA, S/N",30201,0,0,0,0,0,,,
+"TÜV RHEINLAND IBÉRICA,S.A.",3095,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"P.I. VENTA CABILA, CTRA DE GRANADA, S.N.",30400,0,0,0,0,0,,,
+"ITEVEMUR, S.L.",3097,Privada,Murcia,Murcia,(MOVIL AGRICOLAS Y CICLOMOTORES),"P.I. LA SERRETA, C/ BUENOA AIRES, 62",30500,0,0,0,0,0,,,
+"REVISIONES DE NAVARRA, S.A. (ITV PERALTA)",3102,Concesión ,Navarra,Navarra,PERALTA,"CARRETERA PAMPLONA-MADRID KILÓMETRO 59 CALLE DABAN, 56",31350,2,1,0,1,0,,,
+"REVISIONES DE NAVARRA, S.A. (ITV NOAIN-PAMPLONA)",3103,Concesión ,Navarra,Navarra,NOAIN,POLÍGONO INDUSTRIAL TALLUNTXE II CALLE C/62,31110,5,3,0,2,0,,,
+"TUV RHEINLAND NAVARRA, S.A. (ITV PAMPLONA)",3104,Concesión ,Navarra,Navarra,PAMPLONA,CALLE SOTO DE AIZOAIN S/N (MERCAIRUÑA),31013,4,3,0,1,0,,,
+"REVISIONES DE NAVARRA, S.A.(ITV TUDELA)",3105,Concesión ,Navarra,Navarra,TUDELA,POLÍGONO INDUSTRIAL LAS LABRADAS CALLE LA RIOJA 31,31500,3,1,0,2,0,,,
+"REVISIONES DE NAVARRA, S.A. (ITV ESTELLA)",3106,Concesión ,Navarra,Navarra,ESTELLA,POLÍGONO INDUSTRIAL MERCATONDOA 36,31200,2,1,0,1,0,,,
+"TÜV REHINLAND NAVARRA, S.A. (ITV ARBIZU)",3107,Concesión ,Navarra,Navarra,ARBIZU,POLÍGONO INDUSTRIAL ULTZUBAR PARCELAS P-5 Y P-48,31839,2,1,0,1,0,,,
+"REVISIONES DE NAVARRA, S.A. (ITV SANGÜESA)",3108,Concesión ,Navarra,Navarra,SANGÜESA,POLÍGONO INDUSTRIAL ROCAFORTE PARCELA 832,31400,1,0,0,1,0,,,
+"TÜV REHINLAND NAVARRA, S.A.(ITV DONEZTEBE)",3109,Concesión ,Navarra,Navarra,DONEZTEBE-SANTESTEBAN,"PARAJE IBARBURU, CARRETERA NACIONAL N-121-A KILÓMETRO 49",31740,2,1,0,1,0,,,
+"REVISIONES DE NAVARRA, S.A. (IYV CORDOVILLA-PAMPLONA)",3110,Concesión ,Navarra,Navarra,CORDOVILLA,POLÍGONO INDUSTRIAL CORDOVILLA CALLE A-31,31191,3,3,0,0,0,,,
+"TÜV REHINLAND NAVARRA, S.A. (ITV ARETA-HUARTE)",3111,Concesión ,Navarra,Navarra,HUARTE,POLÍGONO INDUSTRIAL ARETA CALLE ALTZUTZATE 3,31620,3,2,0,1,0,,,
+"REVISIONES DE NAVARRA, S.A.(3195) (MÓVIL AGRÍCOLAS) ",3195',Concesión ,Navarra,Navarra,TUDELA (MÓVIL AGRÍCOLAS) ,POLÍGONO INDUSTRIAL LAS LABRADAS CALLE LA RIOJA 31,31500,1,0,0,0,1,,,
+"TÜV REHINLAND NAVARRA, S.A. (31A4) (MÓVIL AGRÍCOLAS) ",31A4',Concesión ,Navarra,Navarra,PAMPLONA (MÓVIL AGRÍCOLAS),CALLE SOTO DE AIZOAIN S/N (MERCAIRUÑA),31013,1,0,0,0,1,,,
+"ITA ASUA, S.L. (0101)",101,,Pais Vasco,Alava,VITORIA,"P.I. JUNDIZ - C/ LERMANDABIDE, 13",1015,6,3,0,2,1,,,
+"ITA ASUA, S.L. (0111)",111,CONCESION,Pais Vasco,Alava,(MOVIL AGRICOLAS Y CICLOMOTORES),,,1,0,0,0,1,,,
+"GRUPO ITEVELESA, S. L.",2001,CONCESION,Pais Vasco,Gipuzkoa,URNIETA,CTRA HERNANI ANDOAIN,20130,3,1,0,2,0,,,
+"ITA ASUA, S.L.",2002,CONCESION,Pais Vasco,Gipuzkoa,BERGARA,"P.I. SAN LORENZO-Santalaitz kalea, 2",20570,4,2,0,2,0,,,
+"GRUPO ITEVELESA, S. L.",2003,CONCESION,Pais Vasco,Gipuzkoa,IRUN,"AVDA EUROPA, 26 - POL. ZAISA",20300,4,2,1,1,0,,,
+"ITA ASUA, S.L.",2012,CONCESION,Pais Vasco,Gipuzkoa,(MOVIL AGRICOLAS Y CICLOMOTORES),,,1,,,,,,,
+"GRUPO ITEVELESA, S. L.",2013,CONCESION,Pais Vasco,Gipuzkoa,(MOVIL CICLOMOTORES),,,1,0,0,0,1,,,
+"APPLUS ITEUVE EUSKADI, S.A.",4801,CONCESION,Pais Vasco,Vizcaya,ARRIGORRIAGA,"AUT. BILBAO-ZARAGOZA, AREA SERV.",48480,3,1,0,2,0,,,
+"INSPECCIÓN TÉCNICA LINK, S.A.",4802,CONCESION,Pais Vasco,Vizcaya,TRAPAGARAN,"Bº EL JUNCAL, S/N",48510,7,6,1,0,0,,,
+"APPLUS ITEUVE EUSKADI, S.A.",4803,CONCESION,Pais Vasco,Vizcaya,ZAMUDIO,"P. UGALDEGUREN, 2",48016,3,1,0,2,0,,,
+"INSPECCIÓN TÉCNICA LINK, S.A.",4804,CONCESION,Pais Vasco,Vizcaya,AMOREBIETA,"POL. ZUBIETAS, S/N",48340,4,3,1,0,0,,,
+"INSPECCIÓN TÉCNICA LINK, S.A.",4805,CONCESION,Pais Vasco,Vizcaya,ZALLA,BARRIO EL LONGAR S/N,48860,3,1,2,0,0,,,
+"APPLUS ITEUVE EUSKADI, S.A.",4811,CONCESION,Pais Vasco,Vizcaya,(MOVIL AGRICOLAS Y CICLOMOTORES),,,1,0,0,0,1,,,
+"INSPECCIÓN TÉCNICA LINK, S.A.",4812,CONCESION,Pais Vasco,Vizcaya,(MOVIL CICLOMOTORES),,,1,0,0,0,1,,,
+OFICIAL,4820,GESTIÓN DIRECTA,Pais Vasco,Vizcaya,ERANDIO,"LARRAURI MENDOTXE, 18",48950,1,1,0,0,0,,,
+"ITA ASUA, S.L.",2004',CONCESION,Pais Vasco,Gipuzkoa,ZARAUTZ,"Araba kalea, 43",20800,3,3,,,0,,,
+"GRUPO ITEVELESA, S. L.",2005,CONCESION,Pais Vasco,Gipuzkoa,BEASAIN,"Pol. Iturraldetxiki, 6",20218,4,1,,2,1,,,
+"APPLUS ITEUVE EUSKADI, S.A.",4806,CONCESION,Pais Vasco,Bizkaia,SOPELA,OLABIDE 10-A,48600,3,2,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",301,Empresa pública,Valencia,Alicante,ALICANTE,"Pol. Ind. Pla de la Vallonga, C/5",3113,7,5,2,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",302,Empresa pública,Valencia,Alicante,REDOVÁN,"Ctra. Nacional N-340, Km 691,5",3370,5,2,0,3,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",303,Empresa pública,Valencia,Alicante,SAN BARTOLOMÉ-ORIHUELA,"Ctra. Almoradi-Orihuela, Km 8,3",3314,3,2,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",304,Empresa pública,Valencia,Alicante,ALCOY,"Ctra de la Font Roja, 21",3801,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",305,Empresa pública,Valencia,Alicante,ELCHE,"Crta. Aspe, s/n",3206,3,2,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",306,Empresa pública,Valencia,Alicante,BENIDORM,"Av. Comunidad Valenciana, s/n",3500,3,2,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",307,Empresa pública,Valencia,Alicante,ONDARA,Carretera Ondara-Orba. CV-731,3760,4,2,0,2,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",308,Empresa pública,Valencia,Alicante,VILLENA,"Autovía A-31 Km 191,5. Colonia Santa Eulalia",3400,3,1,0,2,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",309,Empresa pública,Valencia,Alicante,TORREVIEJA,Ctra. Crevillente-Torrevieja. Urb. Torreta 2,3180,3,2,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",352,Empresa pública,Valencia,(MÓVIL),REDOVÁN,"Ctra. Nacional N-340, Km 691,5",3370,2,0,0,2,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",353,Empresa pública,Valencia,,PILAR DE LA HORADADA,"Barrio Los Villenas, 5",3190,2,1,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",354,Empresa pública,Valencia,(AGRÍCOLA),ALICANTE,"Pol. Ind. Pla de la Vallonga, C/5",3113,1,0,0,0,1,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",355,Empresa pública,Valencia,(AGRÍCOLA),REDOVÁN,"Ctra. Nacional N-340, Km 691,5",3370,1,0,0,0,1,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",356,Empresa pública,Valencia,(AGRÍCOLA),CASTELLÓN DE LA PLANA,"Av. Valencia, 168",12006,1,0,0,0,1,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",1201,Empresa pública,Valencia,Castellón,CASTELLÓN DE LA PLANA,"Av. Valencia, 168",12006,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",1202,Empresa pública,Valencia,Castellón,VILA-REAL,"Azagador, s/n. Crta. Nacional N-340, Km 55",12540,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",1203,Empresa pública,Valencia,Castellón,VINARÒS,"Juan XXIII, s/n",12500,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",1251,Empresa pública,Valencia,(MÓVIL),CASTELLÓN DE LA PLANA,"Av. Valencia, 168",12006,1,1,0,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",1252,Empresa pública,Valencia,(AGRÍCOLA),CASTELLÓN DE LA PLANA,"Av. Valencia, 168",12006,1,0,0,0,1,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4601,Empresa pública,Valencia,Valencia,MASSALFASSAR,"Camino Azagador de Liria, s/n",46560,12,8,3,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4602,Empresa pública,Valencia,Valencia,GANDIA,"Av. Alcodar, 30 - Apdo. Correos 278",46701,5,2,1,2,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4603,Empresa pública,Valencia,Valencia,RIBA-ROJA DE TÚRIA,"Pol. Ind. El Oliveral. Calle B, s/n, A-3. Salida 342",46190,5,4,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4604,Empresa pública,Valencia,Valencia,ONTINYENT,"Av. Ramón y Cajal, s/n",46870,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4605,Empresa pública,Valencia,Valencia,UTIEL,"Pol. Ind. El Melero, s/n. Parcela 88 y 89",46300,2,1,0,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4606,Empresa pública,Valencia,Valencia,ALZIRA,"Ctra. Algemesí - Alzira, s/n",46600,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4607,Empresa pública,Valencia,Valencia,CATARROJA,"Pol. Ind. El Bony, s/n. C/32",46470,4,3,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4608,Empresa pública,Valencia,Valencia,XÀTIVA,"Pol. Ind. L'Estret - C/Filà de divendres, 11",46800,3,2,1,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4609,Empresa pública,Valencia,Valencia,VALENCIA,"Av. Manuel de Falla, 10",46015,4,4,0,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4610,Empresa pública,Valencia,Valencia,VALENCIA,"Pol. Ind. Vara de Quart. C/Dels Gremis, 15",46014,4,4,0,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4611,Empresa pública,Valencia,Valencia,LLÍRIA,"P.I. Pla de Rascanya, C/La Ronda, 72",46160,3,1,0,2,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4612,Empresa pública,Valencia,Valencia,PUERTO DE SAGUNTO,"Av. del Puerto, s/n. Parcela 10. Polígono Ingruinsa",46520,3,1,1,1,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4613,Empresa pública,Valencia,Valencia,SAN ANTONIO DE BENAGÉBER,"Ctra. San Antonio de Benagéber - Bétera, s/n ",46184,4,2,0,2,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4651,Empresa pública,Valencia,(MÓVIL),GANDIA,"Av. Alcodar, 30 - Apdo. Correos 278",46701,1,1,0,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4652,Empresa pública,Valencia,(MÓVIL),RIBA-ROJA DE TÚRIA,"Pol. Ind. El Oliveral. Calle B, s/n, A-3. Salida 342",46190,1,1,0,0,0,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4653,Empresa pública,Valencia,(AGRÍCOLA),RIBA-ROJA DE TÚRIA,"Pol. Ind. El Oliveral. Calle B, s/n, A-3. Salida 342",46190,1,0,0,0,1,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4654,Empresa pública,Valencia,(AGRÍCOLA),MASSALFASSAR,"Camino Azagador de Liria, s/n",46560,1,0,0,0,1,,,
+"SOCIETAT VALENCIANA D'INSPECCIÓ TÈCNICA DE VEHICLES, S.A. (SITVAL)",4655,Empresa pública,Valencia,(AGRÍCOLA),ONTINYENT,"Av. Ramón y Cajal, s/n",46870,1,0,0,0,1,,,
