@@ -88,4 +88,8 @@ Pendiente.
 
 ## ▶️ Cómo ejecutar
 
-Pendiente.
+Pendiente de completar. Para el asistente (cuaderno 03 en adelante) hace falta una clave gratuita de Groq:
+
+1. Crear una cuenta gratuita en [console.groq.com](https://console.groq.com) y generar una clave en el apartado API Keys.
+2. Copiar el archivo .env.example de la raíz del proyecto con el nombre .env.
+3. Pegar la clave en .env, detrás de GROQ_API_KEY=. El archivo .env no se sube a GitHub.
