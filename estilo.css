@@ -1,0 +1,159 @@
+/* Diseño de la app (app.py).
+
+   Está inspirado en la web de la DGT: su azul, su ámbar, la tipografía Open Sans,
+   los botones de esquinas rectas, el recuadro de aviso y el pie azul.
+   No es una copia: el nombre y la cabecera son propios, no se usa ningún logotipo
+   ni imagen de la DGT, y el pie dice claramente que no es un servicio oficial.
+
+   Los colores generales y la tipografía están en .streamlit/config.toml.
+   Las clases que empiezan por "tm-" (Talleres Meseta) son las que usa app.py. */
+
+:root {
+    --azul: #0057A6;
+    --ambar: #FFB200;
+    --texto: #333333;
+    --gris-texto: #666666;
+    --gris-linea: #CFCFCF;
+}
+
+/* ----- Cabecera: nombre del taller en azul con una barra ámbar a la izquierda ----- */
+
+.tm-cabecera {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 14px;
+    padding-bottom: 14px;
+    margin-bottom: 22px;
+    border-bottom: 1px solid var(--gris-linea);
+}
+
+.tm-marca {
+    color: var(--azul);
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+    padding-left: 12px;
+    border-left: 6px solid var(--ambar);
+}
+
+.tm-lema {
+    color: var(--gris-texto);
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* ----- Título de la página, subtítulo y línea de datos en gris ----- */
+
+.tm-titulo {
+    color: var(--texto);
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0;
+    padding: 0;
+}
+
+.tm-subtitulo {
+    color: var(--texto);
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 8px 0 0 0;
+}
+
+.tm-meta {
+    color: var(--gris-texto);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin: 12px 0 0 0;
+}
+
+/* ----- Recuadro de aviso azul claro con una "i" ----- */
+
+.tm-aviso {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: #D9EDF2;
+    color: #0C5460;
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.45;
+    padding: 12px 14px;
+}
+
+.tm-aviso-icono {
+    flex: 0 0 22px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #0C5460;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: center;
+}
+
+/* ----- Títulos de apartado en azul ("Preguntas de ejemplo", "Modelo") ----- */
+
+.tm-apartado {
+    color: var(--azul);
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+    padding-top: 14px;
+    border-top: 1px solid var(--gris-linea);
+}
+
+/* ----- Pie azul con el título en ámbar ----- */
+
+.tm-pie {
+    background: var(--azul);
+    color: #FFFFFF;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    padding: 14px 16px;
+}
+
+.tm-pie p {
+    margin: 0;
+}
+
+.tm-pie .tm-pie-titulo {
+    color: var(--ambar);
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+/* ----- Piezas de Streamlit ----- */
+
+/* Botones: borde gris y texto azul en negrita; al pasar por encima, azul relleno. */
+.stButton button {
+    color: var(--azul);
+    font-weight: 600;
+    border: 1px solid var(--gris-linea);
+}
+
+.stButton button p {
+    font-weight: 600;
+}
+
+.stButton button:hover,
+.stButton button:focus-visible {
+    background: var(--azul);
+    border-color: var(--azul);
+    color: #FFFFFF;
+}
+
+/* Iconos del chat: azul para la persona y ámbar para el asistente. */
+[data-testid="stChatMessageAvatarUser"] {
+    background: var(--azul);
+    color: #FFFFFF;
+}
+
+[data-testid="stChatMessageAvatarAssistant"] {
+    background: var(--ambar);
+    color: var(--texto);
+}

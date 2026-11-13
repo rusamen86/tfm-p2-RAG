@@ -1,0 +1,28 @@
+# Configuración de la app de Streamlit (app.py).
+#
+# El tema está inspirado en la web de la DGT: fondo blanco, texto gris oscuro,
+# azul para lo que se puede pulsar, tipografía Open Sans y esquinas rectas.
+# El resto del diseño (cabecera, aviso y pie) está en estilo.css.
+
+[theme]
+base = "light"
+primaryColor = "#0057A6"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F2F2"
+textColor = "#333333"
+linkColor = "#0057A6"
+borderColor = "#CFCFCF"
+# Open Sans se descarga de Google Fonts; si no hay conexión, se usa la letra sans-serif del sistema.
+font = "Open Sans:https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap, sans-serif"
+# Esquinas rectas en botones y cajas.
+baseRadius = "none"
+# Menos espacio en blanco encima de la cabecera.
+paddingTop = "1.5rem"
+
+[client]
+# Oculta el botón Deploy y el menú de desarrollo.
+toolbarMode = "minimal"
+
+[browser]
+# No enviar estadísticas de uso a Streamlit.
+gatherUsageStats = false
