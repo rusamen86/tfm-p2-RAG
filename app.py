@@ -15,8 +15,20 @@
 #     de la página entre una ejecución y la siguiente.
 
 import os
+import sys
 import time
 from dotenv import load_dotenv
+
+# Solo hace falta en la nube. Chroma necesita un sqlite moderno y algunos servidores Linux
+# traen uno antiguo. Allí se instala el paquete pysqlite3 (ver requirements.txt) y con estas
+# líneas se usa en lugar del sqlite del sistema. En el Mac ese paquete no está instalado,
+# el import falla y no se cambia nada. Tiene que ir antes de "import chromadb".
+try:
+    import pysqlite3
+    sys.modules['sqlite3'] = pysqlite3
+except ImportError:
+    pass
+
 import chromadb
 import numpy as np
 import streamlit as st
@@ -29,7 +41,14 @@ from groq import Groq
 st.set_page_config(page_title='Asistente de Talleres Meseta', page_icon='🔧', layout='centered')
 
 carpeta = os.path.dirname(os.path.abspath(__file__))
+
+# La base vectorial la crea el cuaderno 02 en la carpeta chroma_db, que no se sube a GitHub.
+# En la nube esa carpeta no existe, así que se usa chroma_db_nube: una copia que sí está
+# subida. Si se vuelve a ejecutar el cuaderno 02, hay que copiar otra vez chroma_db
+# sobre chroma_db_nube para que la app desplegada tenga la base nueva.
 ruta_chroma = os.path.join(carpeta, 'chroma_db')
+if not os.path.isdir(ruta_chroma):
+    ruta_chroma = os.path.join(carpeta, 'chroma_db_nube')
 
 # Nombre que se ve en la página -> nombre del modelo en Groq
 modelos = {'gpt-oss-120b': 'openai/gpt-oss-120b',
@@ -49,16 +68,25 @@ Si el contexto no contiene la respuesta, di exactamente: No lo sé con la inform
 
 # ---------- Clave de Groq ----------
 
-# En local la clave está en .env. En un servicio en la nube se guarda en sus
-# "secrets", que llegan al programa igual, como variable de entorno.
+# En local la clave está en el archivo .env. En Streamlit Cloud no hay .env: la clave se
+# guarda en los "secrets" de la app y se lee con st.secrets. Se prueba primero una forma y,
+# si no hay clave, la otra. En local st.secrets da error porque no existe ese archivo de
+# secrets; por eso va dentro de try / except. La clave nunca se escribe ni se muestra.
 load_dotenv(os.path.join(carpeta, '.env'))
+clave_groq = os.getenv('GROQ_API_KEY')
 
-if os.getenv('GROQ_API_KEY') is None:
+if clave_groq is None:
+    try:
+        clave_groq = st.secrets['GROQ_API_KEY']
+    except Exception:
+        clave_groq = None
+
+if clave_groq is None:
     st.error('Falta la clave GROQ_API_KEY. En local va en el archivo .env; en la nube, en los secrets del servicio.')
     st.stop()
 
 if not os.path.isdir(ruta_chroma):
-    st.error('No encuentro la base vectorial chroma_db. Ejecuta antes los cuadernos 01 y 02.')
+    st.error('No encuentro la base vectorial. Ejecuta antes los cuadernos 01 y 02.')
     st.stop()
 
 
@@ -70,7 +98,7 @@ def cargar_recursos():
     collection = client.get_collection('taller')
     model = SentenceTransformer('intfloat/multilingual-e5-small')
     reranker = CrossEncoder('cross-encoder/mmarco-mMiniLMv2-L12-H384-v1')
-    cliente = Groq(api_key=os.getenv('GROQ_API_KEY'), timeout=30, max_retries=1)
+    cliente = Groq(api_key=clave_groq, timeout=30, max_retries=1)
     return collection, model, reranker, cliente
 
 
@@ -127,7 +155,8 @@ def generar(modelo, pregunta, trozos, fuentes):
         texto = respuesta.choices[0].message.content
     except Exception as error:
         texto = ('No he podido responder ahora (' + type(error).__name__ + '). '
-                 'El plan gratuito de Groq admite pocas preguntas por minuto: espera un minuto y vuelve a intentarlo.')
+                 'Si el error es RateLimitError, se ha llegado al límite del plan gratuito de Groq: '
+                 'espera un minuto y vuelve a intentarlo.')
     segundos = time.time() - inicio
     return texto, segundos
 
