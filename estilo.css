@@ -1,9 +1,8 @@
 /* Diseño de la app (app.py).
 
-   Está inspirado en la web de la DGT: su azul, su ámbar, la tipografía Open Sans,
-   los botones de esquinas rectas, el recuadro de aviso y el pie azul.
-   No es una copia: el nombre y la cabecera son propios, no se usa ningún logotipo
-   ni imagen de la DGT, y el pie dice claramente que no es un servicio oficial.
+   Estilo sobrio de web institucional: azul y ámbar, tipografía Open Sans, botones
+   de esquinas rectas, un recuadro de aviso y un pie azul. La paleta y la tipografía
+   toman como referencia las de la web de la DGT; el nombre y la cabecera son propios.
 
    Los colores generales y la tipografía están en .streamlit/config.toml.
    Las clases que empiezan por "tm-" (Talleres Meseta) son las que usa app.py. */
@@ -125,6 +124,14 @@
     color: var(--ambar);
     font-weight: 600;
     margin-bottom: 4px;
+}
+
+/* En pantallas estrechas (móvil) el pie se oculta: ocupaba casi un cuarto de la
+   pantalla y dejaba poco sitio para leer las respuestas. */
+@media (max-width: 640px) {
+    .tm-pie {
+        display: none;
+    }
 }
 
 /* ----- Piezas de Streamlit ----- */

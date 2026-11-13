@@ -155,10 +155,9 @@ def mostrar_mensaje(mensaje):
 
 # ---------- Página ----------
 
-# El diseño está inspirado en la web de la DGT (colores, tipografía y formas), con nombre
-# y cabecera propios. Los colores generales están en .streamlit/config.toml y el resto en
-# estilo.css, que se carga aquí. st.html sirve para escribir un trozo de HTML en la página;
-# las clases "tm-..." son las que define estilo.css.
+# El diseño: los colores generales y la tipografía están en .streamlit/config.toml y el
+# resto (cabecera, aviso, apartados y pie) en estilo.css, que se carga aquí. st.html sirve
+# para escribir un trozo de HTML en la página; las clases "tm-..." son las que define estilo.css.
 with open(os.path.join(carpeta, 'estilo.css'), encoding='utf-8') as archivo:
     st.html('<style>' + archivo.read() + '</style>')
 
@@ -169,13 +168,13 @@ st.html('''
 </div>
 <h1 class="tm-titulo">Pregunta a la documentación del taller</h1>
 <p class="tm-subtitulo">Respuestas basadas en la normativa oficial y en las preguntas frecuentes del taller, siempre con su fuente.</p>
-<p class="tm-meta">Documentos: BOE, DGT, Ministerio de Industria y FAQ del taller · Cada pregunta se responde por separado</p>
+<p class="tm-meta">Cada pregunta se responde por separado: no recuerda las anteriores</p>
 ''')
 
 st.html('''
 <div class="tm-aviso">
     <span class="tm-aviso-icono">i</span>
-    <span>Talleres Meseta es un taller ficticio creado para un Trabajo Fin de Máster. Esta página no es un servicio oficial.</span>
+    <span>Talleres Meseta es un taller ficticio creado para un Trabajo Fin de Máster. Las respuestas las redacta un modelo de lenguaje: comprueba siempre la fuente.</span>
 </div>
 ''')
 
@@ -237,10 +236,10 @@ if len(st.session_state.mensajes) > 0:
         st.session_state.mensajes = []
         st.rerun()
 
-# Pie de página.
+# Pie de página. En pantallas estrechas (móvil) estilo.css lo oculta para dejar sitio al chat.
 st.html('''
 <div class="tm-pie">
     <p class="tm-pie-titulo">Sobre este asistente</p>
-    <p>Proyecto de fin de máster. El diseño está inspirado en la web de la DGT, pero esta página no pertenece a la DGT ni es un servicio oficial.</p>
+    <p>Proyecto de fin de máster. Documentos consultados: BOE, DGT, Ministerio de Industria y las preguntas frecuentes del taller.</p>
 </div>
 ''')

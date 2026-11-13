@@ -1,6 +1,6 @@
 # Configuración de la app de Streamlit (app.py).
 #
-# El tema está inspirado en la web de la DGT: fondo blanco, texto gris oscuro,
+# Tema sobrio, de web institucional: fondo blanco, texto gris oscuro,
 # azul para lo que se puede pulsar, tipografía Open Sans y esquinas rectas.
 # El resto del diseño (cabecera, aviso y pie) está en estilo.css.
 
