@@ -81,8 +81,20 @@ if clave_groq is None:
     except Exception:
         clave_groq = None
 
-if clave_groq is None:
-    st.error('Falta la clave GROQ_API_KEY. En local va en el archivo .env; en la nube, en los secrets del servicio.')
+# Al pegar una clave es fácil que se cuelen espacios o comillas de más: se quitan.
+if clave_groq is not None:
+    clave_groq = str(clave_groq).strip().strip('"').strip("'").strip()
+
+if clave_groq is None or clave_groq == '':
+    # Para saber qué falla sin enseñar ningún dato, se cuenta cuántos secrets hay guardados.
+    try:
+        numero_secrets = len(st.secrets)
+    except Exception:
+        numero_secrets = 0
+    st.error('Falta la clave GROQ_API_KEY. En local va en el archivo .env. En Streamlit Cloud va en '
+             'Manage app, Settings, Secrets, en una línea con esta forma: GROQ_API_KEY = "tu-clave". '
+             'Secrets guardados ahora mismo: ' + str(numero_secrets) + '. Si son 0, no se han guardado; '
+             'si hay alguno, el nombre no es exactamente GROQ_API_KEY.')
     st.stop()
 
 if not os.path.isdir(ruta_chroma):
@@ -98,11 +110,14 @@ def cargar_recursos():
     collection = client.get_collection('taller')
     model = SentenceTransformer('intfloat/multilingual-e5-small')
     reranker = CrossEncoder('cross-encoder/mmarco-mMiniLMv2-L12-H384-v1')
-    cliente = Groq(api_key=clave_groq, timeout=30, max_retries=1)
-    return collection, model, reranker, cliente
+    return collection, model, reranker
 
 
-collection, model, reranker, cliente = cargar_recursos()
+collection, model, reranker = cargar_recursos()
+
+# El cliente de Groq se crea fuera de la función anterior, en cada ejecución. Es muy ligero,
+# y así, si se cambia la clave en los secrets, la app usa la nueva sin tener que reiniciarla.
+cliente = Groq(api_key=clave_groq, timeout=30, max_retries=1)
 
 
 # ---------- Funciones del RAG (las mismas del cuaderno 05) ----------
@@ -154,9 +169,19 @@ def generar(modelo, pregunta, trozos, fuentes):
                       {'role': 'user', 'content': prompt}])
         texto = respuesta.choices[0].message.content
     except Exception as error:
-        texto = ('No he podido responder ahora (' + type(error).__name__ + '). '
-                 'Si el error es RateLimitError, se ha llegado al límite del plan gratuito de Groq: '
-                 'espera un minuto y vuelve a intentarlo.')
+        # Se explica la causa según el tipo de error. Nunca se muestra la clave.
+        tipo = type(error).__name__
+        if tipo == 'AuthenticationError':
+            texto = ('Groq no acepta la clave (AuthenticationError). Revisa que GROQ_API_KEY esté copiada '
+                     'entera y sin caracteres de más, y que la clave siga activa en console.groq.com.')
+        elif tipo == 'RateLimitError':
+            texto = ('Se ha llegado al límite del plan gratuito de Groq (RateLimitError). '
+                     'Espera un minuto y vuelve a intentarlo.')
+        elif tipo == 'PermissionDeniedError':
+            texto = ('Groq ha rechazado la petición (PermissionDeniedError): la clave es válida pero no '
+                     'tiene permiso para este modelo o desde este servidor.')
+        else:
+            texto = ('No he podido conectar con Groq (' + tipo + '). Vuelve a intentarlo dentro de un momento.')
     segundos = time.time() - inicio
     return texto, segundos
 
