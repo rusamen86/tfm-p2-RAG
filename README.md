@@ -10,16 +10,18 @@ Asistente que responde preguntas sobre la documentación de un taller de reparac
 2. [Documentos](#-documentos)
 3. [Estructura del repositorio](#️-estructura-del-repositorio)
 4. [Esquema del flujo](#-esquema-del-flujo)
-5. [Preguntas del enunciado](#-preguntas-del-enunciado)
+5. [Decisiones del proyecto](#-decisiones-del-proyecto)
 6. [Asistente básico](#-asistente-básico)
 7. [Versión mejorada](#-versión-mejorada)
 8. [Evaluación](#-evaluación)
 9. [Ejemplo de ejecución](#-ejemplo-de-ejecución)
 10. [Cómo ejecutar](#️-cómo-ejecutar)
-11. [Limitaciones](#️-limitaciones)
-12. [Mejoras futuras](#-mejoras-futuras)
-13. [Lecciones aprendidas](#-lecciones-aprendidas)
-14. [Uso de la IA](#-uso-de-la-ia)
+11. [Dificultades y soluciones](#-dificultades-y-soluciones)
+12. [Limitaciones](#️-limitaciones)
+13. [Mejoras futuras](#-mejoras-futuras)
+14. [Uso en el taller](#-uso-en-el-taller)
+15. [Lecciones aprendidas](#-lecciones-aprendidas)
+16. [Uso de la IA](#-uso-de-la-ia)
 
 ---
 
@@ -102,23 +104,15 @@ flowchart TD
 
 ---
 
-## ❓ Preguntas del enunciado
+## 🧭 Decisiones del proyecto
 
-**¿Qué formatos se han usado?** Cinco: PDF (pypdf), HTML y XML (BeautifulSoup), CSV (pandas) y Markdown (lectura directa). En el HTML se eliminan scripts, estilos y menús; en el XML del BOE se toma solo la etiqueta texto del primer nivel, para no mezclar las referencias a otras normas. Cada fila del CSV se convierte en una frase ("La estación ITV 411 de VEIASA está en..."), porque el buscador entiende mejor frases que columnas sueltas.
+La base documental usa cinco formatos: PDF (pypdf), HTML y XML (BeautifulSoup), CSV (pandas) y Markdown (lectura directa). Cada uno se prepara a su manera. Del HTML se quitan scripts, estilos y menús, y del XML del BOE se toma solo la etiqueta texto del primer nivel, para no mezclar las referencias a otras normas. Cada fila del CSV se convierte en una frase ("La estación ITV 411 de VEIASA está en..."), porque el buscador entiende mejor frases que columnas sueltas.
 
-**¿Cómo se ha hecho el chunking?** Por número de caracteres: trozos de 800 caracteres (chunk_size) con 100 de solape (chunk_overlap). 800 caracteres da para un párrafo o una pregunta de la FAQ completa, y el trozo más largo ocupa 360 tokens, por debajo del máximo de 512 del modelo de embeddings, así que ninguno se corta. El solape de 100 evita perder una idea que caiga justo en el corte entre dos trozos. Es el método más sencillo y suficiente para una primera versión.
+Después, todo el texto se divide por número de caracteres en trozos de 800 (chunk_size) con 100 de solape (chunk_overlap). Con 800 caracteres cabe un párrafo o una pregunta completa de la FAQ, y el trozo más largo ocupa 360 tokens, por debajo del máximo de 512 del modelo de embeddings, así que ninguno se corta. El solape de 100 evita perder una idea que caiga justo en el corte entre dos trozos. Es el método más sencillo y es suficiente para una primera versión.
 
-**¿Qué modelo y qué base vectorial?**
-- Embeddings: **intfloat/multilingual-e5-small** (gratuito, ligero, multilingüe y vectores de 384 números). Se eligió frente a paraphrase-multilingual-MiniLM-L12-v2 porque este solo lee 128 tokens y cortaría los trozos.
-- Base vectorial: **Chroma** con PersistentClient, guardada en disco y con similitud por coseno.
-- LLM: **openai/gpt-oss-120b** en Groq (plan gratuito). En Groq no hay ningún Llama de chat disponible; este modelo de pesos abiertos escribe bien en español.
-- Re-ranking: **cross-encoder/mmarco-mMiniLMv2-L12-H384-v1**, multilingüe y entrenado para búsqueda. Se eligió frente a BAAI/bge-reranker-v2-m3 porque pesa unos 470 MB frente a más de 2 GB.
+Para los embeddings se usa **intfloat/multilingual-e5-small**, que es gratuito, ligero, multilingüe y genera vectores de 384 números. Se eligió frente a paraphrase-multilingual-MiniLM-L12-v2 porque este solo lee 128 tokens y cortaría los trozos. Los vectores se guardan en **Chroma** con PersistentClient, en disco y con similitud por coseno. Para generar las respuestas se usa **openai/gpt-oss-120b** en Groq, con el plan gratuito: en Groq no hay ningún Llama de chat disponible, y este modelo de pesos abiertos escribe bien en español. Como mejora se añade re-ranking con **cross-encoder/mmarco-mMiniLMv2-L12-H384-v1**, que es multilingüe y está entrenado para búsqueda; se eligió frente a BAAI/bge-reranker-v2-m3 porque pesa unos 470 MB frente a más de 2 GB.
 
-**¿Cómo se ha evaluado?** Con 10 preguntas con respuesta de referencia comprobada a mano y dos métricas: acierto de recuperación (si algún trozo recuperado viene de la fuente correcta y contiene el dato clave) y respuesta correcta (un LLM como juez compara con la referencia). Detalle en [Evaluación](#-evaluación).
-
-**¿Qué mejora se ha probado?** Re-ranking con un cross-encoder. Detalle en [Versión mejorada](#-versión-mejorada).
-
-**¿Qué se ha aprendido?** Ver [Lecciones aprendidas](#-lecciones-aprendidas).
+La calidad se evalúa con 10 preguntas cuya respuesta de referencia se comprobó a mano, y con dos métricas: el acierto de recuperación (si algún trozo recuperado viene de la fuente correcta y contiene el dato clave) y la respuesta correcta (un LLM como juez la compara con la referencia). La mejora probada, el re-ranking, se explica en [Versión mejorada](#-versión-mejorada), su impacto en [Evaluación](#-evaluación) y lo aprendido sobre los sistemas RAG en [Lecciones aprendidas](#-lecciones-aprendidas).
 
 ---
 
@@ -212,6 +206,12 @@ Los cuadernos se entregan ya ejecutados, con sus salidas, para poder leerlos sin
 
 ---
 
+## 🧩 Dificultades y soluciones
+
+Al leer el XML del BOE, al principio salía un solo trozo, porque la búsqueda de la etiqueta texto entraba también en los niveles interiores; se resolvió con recursive=False, que busca solo en el primer nivel. En la evaluación, Groq devolvía el error 429: el plan gratuito permite 8.000 tokens por minuto y las llamadas seguidas lo superaban. Se añadió una pausa de 15 segundos después de cada llamada, y por eso el cuaderno 04 tarda unos 11 minutos. El Real Decreto 920/2017 está en HTML y en XML, así que 562 de los 850 trozos son contenido repetido; se mantuvo para cubrir los dos formatos y queda indicado en Limitaciones. Por último, el primer modelo de embeddings que se valoró, paraphrase-multilingual-MiniLM-L12-v2, solo lee 128 tokens y habría cortado los trozos de 800 caracteres, así que se cambió por multilingual-e5-small, que lee hasta 512.
+
+---
+
 ## ⚠️ Limitaciones
 
 - **Documento duplicado:** el Real Decreto 920/2017 está en HTML y en XML, que son 562 de los 850 trozos. Se incluyó para cubrir los dos formatos, pero ocupa sitio en los resultados con información repetida.
@@ -230,6 +230,12 @@ Los cuadernos se entregan ya ejecutados, con sus salidas, para poder leerlos sin
 - **Más preguntas** de evaluación, para que las diferencias sean fiables.
 - Un juez más robusto, tipo Jev de TypeSafe, que dé además una **confianza calibrada** en cada calificación.
 - Probar trozos más pequeños, **500 caracteres con 50 de solape**, y comparar con 800/100.
+
+---
+
+## 👥 Uso en el taller
+
+En el día a día, el asistente se podría poner en una página web interna sencilla o en un chat de Teams o Slack, donde los empleados del taller escriban sus dudas sobre la normativa, la ITV, las llamadas a revisión o las estaciones y reciban la respuesta con su fuente. Cuando cambie algún documento o se añada uno nuevo, bastaría con volver a ejecutar la ingesta y los embeddings para actualizar la base.
 
 ---
 
